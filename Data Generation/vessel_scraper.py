@@ -34,9 +34,8 @@ def scrapeWithScript(url, xpath, iteratorID):
     TIMEOUT  = 5
     LOADING_ELEMENT_XPATH = "vesselsearch_table_processing"
 
-    while True:
+    while len(outlist) <= 300:
         for elem in driver.find_elements_by_xpath("/html/body/main/div/div/table/tbody/tr/td/div/div/strong/a"):
-            print(outlist, n, len(outlist))
             if elem.text not in outlist: outlist.append(elem.text)
             n+=1
         
@@ -44,7 +43,6 @@ def scrapeWithScript(url, xpath, iteratorID):
 
             elem = driver.find_element_by_id(iteratorID)
             ActionChains(driver).move_to_element(elem).click(elem).perform()
-            #time.sleep(2)
             
             WebDriverWait(driver, TIMEOUT).until(EC.presence_of_element_located((By.XPATH, LOADING_ELEMENT_XPATH)))
             WebDriverWait(driver, TIMEOUT).until_not(EC.presence_of_element_located((By.XPATH, LOADING_ELEMENT_XPATH)))
@@ -53,10 +51,14 @@ def scrapeWithScript(url, xpath, iteratorID):
             driver.get(url)
 
     driver.quit()
-    print(outlist)
+    return outlist
 
-scrapeWithScript(url = "https://www.fleetmon.com/vessels/",
+data = scrapeWithScript(url = "https://www.fleetmon.com/vessels/",
                  xpath =  "/html/body/main/div/div/table/tbody/tr/td/div/div/strong/a",
                  iteratorID = "vesselsearch_table_next")
 
-                 
+import pandas as pd
+
+d = {"data": data, "type": ["Vessel" for x in data]}
+outcsv = pd.DataFrame(data = d)
+outcsv.to_csv("C:/Users/puria/source/repos/puria-radmard/vectorai/Latest Data/vessels.csv")

@@ -21,4 +21,13 @@ outlist = []
 for place in data["places"]:
     outlist.append(str(place["title"]))
 
-print(outlist)
+# For the final generation, I'll throw in country names too
+
+import pandas as pd
+import place_scraper
+
+place_scraper.scrapeWikiPage("https://en.wikipedia.org/wiki/List_of_sovereign_states", [0], outlist)
+
+d = {"data": outlist, "type": ["Location" for x in outlist]}
+outcsv = pd.DataFrame(data = d)
+outcsv.to_csv("C:/Users/puria/source/repos/puria-radmard/vectorai/Latest Data/locations.csv")
