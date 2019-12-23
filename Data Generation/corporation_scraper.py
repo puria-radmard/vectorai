@@ -42,14 +42,14 @@ def findRegisters(url):
     outlist = []
     pages = []
 
-    driver = webdriver.Chrome(ChromeDriverManager().install())
+    driver = webdriver.Chrome("C:\\Users\\puria\\.wdm\\drivers\\chromedriver\\79.0.3945.36\\win32\\chromedriver.exe")
     driver.get(url)
 
     for elem in driver.find_elements_by_xpath("/html/body/div/div/div/div/div/div/table/tbody/tr/td/a[contains(@href, '/companies/')]"):
         new_page = elem.get_attribute("href")
         pages.append(new_page)
         
-    for page in pages[0:2]:
+    for page in pages:
         print(page)
         outlist += scrapeRegister(page, driver)
         #print(scrapeRegister(link, driver))

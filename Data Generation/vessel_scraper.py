@@ -27,7 +27,7 @@ def scrapeWithScript(url, xpath, iteratorID):
 
     outlist = []
 
-    driver = webdriver.Chrome(ChromeDriverManager().install())
+    driver = webdriver.Chrome("C:\\Users\\puria\\.wdm\\drivers\\chromedriver\\79.0.3945.36\\win32\\chromedriver.exe")
     driver.get(url)
     n = 0
 
