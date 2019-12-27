@@ -11,22 +11,20 @@
 # https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10      
 # (the second article uses an RCNN, which again was decided against)
 
-# Finally, this version of the CNN architecture was slightly changed to input embedded and size adjusted text inputs automatically, rather than 
-# embed them in the CNN.
-
 import tensorflow as tf
 import numpy as np
 import warnings
 warnings.simplefilter(action='ignore', category=Warning)
 
 class TextCNN:
-    def __init__(self, filter_sizes,num_filters,num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,embed_size,
+    def __init__(self, filter_sizes,num_filters,num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,vocab_size,embed_size,
                 is_training = False,initializer=tf.random_normal_initializer(stddev=0.1),clip_gradients=5.0,decay_rate_big=0.50, leaky_alpha= 0.2, l2_lambda=0.0001):
         """init all hyperparameter here"""
         # set hyperparamter
         self.num_classes = num_classes
         self.batch_size = batch_size
         self.sequence_length=sequence_length
+        self.vocab_size=vocab_size                      # For us this is number of characters involved
         self.embed_size=embed_size
         self.learning_rate = tf.Variable(learning_rate, trainable=False, name="learning_rate")#ADD learning_rate
         self.learning_rate_decay_half_op = tf.assign(self.learning_rate, self.learning_rate * decay_rate_big)
@@ -40,8 +38,8 @@ class TextCNN:
         self.l2_lambda = l2_lambda
 
         with tf.name_scope("placeholders"):
-            self.X_in = tf.placeholder(tf.float32, [None, self.sequence_length, embed_size], name='X_in') # (batch size, input length, in_channels)
-            self.y_in = tf.placeholder(tf.int32, [None,], name = 'y_in')    # No multiclassification needed for us
+            self.X_in = tf.placeholder(tf.int32, [self.batch_size, self.sequence_length], name='X_in') # (batch size, input length, in_channels)
+            self.y_in = tf.placeholder(tf.int32, [self.batch_size,], name = 'y_in')    # No multiclassification needed for us
             self.dropout_keep_prob = tf.placeholder(tf.float32, name = "dropout_keep_prob") # May later change to a new one for each layer
             self.iter = tf.placeholder(tf.int32) #training iteration
             self.tst=tf.placeholder(tf.bool)                                # We will be using a multiple layer CNN, so no need to check like brightmart does
@@ -72,12 +70,16 @@ class TextCNN:
         # I did way too much research into character embedding before realising characters are also included in standard
         # word embedding libraries, so splitting the inputs up with spaces is the equivalent
 
-        with tf.name_scope("embedding"):                              # ,initializer=self.initializer)       
+        with tf.name_scope("embedding"):
+            self.Embedding = tf.get_variable("Embedding", shape=[self.vocab_size, self.embed_size])                                 # ,initializer=self.initializer)        #[vocab_size,embed_size] tf.random_uniform([self.vocab_size, self.embed_size],-1.0,1.0)
             self.W_projection = tf.get_variable("W_projection",shape=[self.num_filters_total, self.num_classes])                    #,initializer=self.initializer) #[embed_size,label_size]
             self.b_projection = tf.get_variable("b_projection",shape=[self.num_classes])       #[label_size] #ADD 2017.06.09
 
+        self.embedded_words = tf.nn.embedding_lookup(self.Embedding,self.X_in)#[None,sentence_length,embed_size]
+        
         # Had to change up this line to avoid rank compatability issues
-        self.embeddings_expanded=tf.expand_dims(self.X_in,-1) #[None,sentence_length,embed_size,1). expand dimension so meet input requirement of 2d-conv
+        self.embeddings_expanded=tf.expand_dims(self.embedded_words,-1) #[None,sentence_length,embed_size,1). expand dimension so meet input requirement of 2d-conv
+        print(tf.shape(self.embeddings_expanded))
         #self.embedded_transpose = tf.reshape(self.embedded_words, shape = [tf.shape(self.embedded_words)[0]] + [self.sequence_length, self.embed_size, 1])
 
         h = self.cnn_layers()
@@ -143,7 +145,7 @@ class TextCNN:
             losses = tf.nn.sparse_softmax_cross_entropy_with_logits(labels = self.y_in, logits = self.logits)
             # Didn't think of this, will try to model for different parameters also
             l2_losses = tf.add_n([tf.nn.l2_loss(v) for v in tf.trainable_variables() if 'bias' not in v.name]) * self.l2_lambda
-            loss = losses+l2_losses
+            loss = loss+l2_losses
         return loss
     
     def train(self):
@@ -159,7 +161,15 @@ class TextCNN:
             train_op = optimizer.apply_gradients(zip(gradients, variables))
         return train_op
 
+import string
 
+def characterise_inputs(word):
+    return " ".join([x if x in string.printable else " " for x in str(word)])
+
+from training_data import X_train, y_train, X_test, y_test
+
+X_train = X_train.apply(characterise_inputs)
+X_test = X_train.apply(characterise_inputs)
 
 def test():
     #below is a function test; if you use this for text classifiction, you need to transform sentence to indices of vocabulary first. then feed data to the graph.
@@ -169,26 +179,35 @@ def test():
     decay_steps=1000
     decay_rate=0.95
     sequence_length=5                 ### WILL NEED TWEAKING
+    vocab_size=10000
     embed_size=100
     is_training=True
     dropout_keep_prob=1.0
     filter_sizes=[2,3,4]
     num_filters=128
     print("wow")
-    textRNN=TextCNN(filter_sizes,num_filters,num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,embed_size,is_training)
+    textRNN=TextCNN(filter_sizes,num_filters,num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,vocab_size,embed_size,is_training)
     print("wow2")
     with tf.Session() as sess:
         sess.run(tf.global_variables_initializer())
-        for i in range(1):
+        for i in range(500):
             print("WOW3")
-            input_x=np.random.randn(batch_size,sequence_length, embed_size)
-            input_y = [np.random.randint(0,4) for a in range(batch_size)]
-            print(input_x, input_y)
+            input_x=np.random.randn(batch_size,sequence_length) #[None, self.sequence_length]
+            input_x[input_x>=0]=1
+            input_x[input_x <0] = 0
+            input_y = compute_single_label(input_x)
+            #print(input_x, input_y)
             loss,possibility,W_projection_value,_=sess.run([textRNN.loss_val,textRNN.possibility,textRNN.W_projection,textRNN.train_op],
                                                     feed_dict={textRNN.X_in:input_x,textRNN.y_in:input_y,
                                                                textRNN.dropout_keep_prob:dropout_keep_prob,textRNN.tst:False,
                                                                textRNN.is_training_flag:is_training})                                                              # Had to be added
-            #print(i,"loss:",loss,"-------------------------------------------------------")
-            #print("label:",input_y)#print("possibility:",possibility)
+            print(i,"loss:",loss,"-------------------------------------------------------")
+            print("label:",input_y)#print("possibility:",possibility)
 
-#test()
+def compute_single_label(listt):
+    outlist = []
+    for l in listt:
+        outlist.append(sum(l)%4)
+    return outlist
+
+test()

@@ -1,6 +1,8 @@
-from training_data import df, usable_char
+from compiling_data import df, usable_char, splitwords
 from gensim.models import Word2Vec
 import gensim
+import random
+import numpy as np
 
 def w2vmodel(build = False, show = False, model_rev = False):
 
@@ -43,9 +45,46 @@ def w2vmodel(build = False, show = False, model_rev = False):
                 pass
         print(a)
     
-#model(show = True)
+    return model
+    
+model = w2vmodel(build = False, show = False, model_rev = False)
 
-def augment_data(word, length):
-    
+def embed_and_augment_data(word, model = model, length = 40):   # Input has to be a split word, see training_data.py
+
     # Changes data randomly (using characters from the data) to both standardise string length, and increase sample size
-    
+    # This was taken from this article https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28
+
+    outword = np.array([model[a] for a in word])
+
+    while len(outword) != length:
+        lng = len(outword)
+        
+        if lng > length:                                   # Average two random adjacent vectors until length matches
+            ind = np.random.randint(0, lng - 1)
+            outword[ind] = 0.5*(outword[ind] + outword[ind+1])
+            outword = np.delete(outword, ind+1, 0)
+
+        if lng < length:                                   
+            cointoss = random.random()
+            
+            if cointoss >= 0.5:                                     # Repeats random sequences of size 2,3,4 (or up to entry length)
+                seq_len = np.random.randint(2, 5)
+                if seq_len > lng: seq_len = lng
+
+                ind = np.random.randint(0, lng - seq_len + 1)       # Picks a place to start for sequence replication
+                seq = outword[ind:ind+seq_len]
+                outword = np.insert(outword, [ind], seq, axis = 0)
+
+            else:                                                   # Picks SECOND most similar letter to it (i.e. bypassing self)
+                ind = np.random.randint(0, lng)
+                sim = model.most_similar(positive=[outword[ind]], topn=2)[1][0]
+                
+                outword = np.insert(outword, [ind], model[sim], axis = 0)
+
+    return outword
+
+#aug_word = embed_and_augment_data(splitwords("Hello my name is Puria and this is the augmented version of this sentece. Enjoy!"), length = 40)
+
+#print(aug_word.shape)
+#print([model.most_similar(positive=[a], topn=2)[0][0] for a in aug_word])
+#print(aug_word, "\n \n", np.shape(aug_word))

@@ -17,7 +17,7 @@ def splitwords(word):
     return[x for x in word if x in usable_char]
 
 df["data"] = df["data"].apply(splitwords)
-print(max(df["data"].apply(len)))
+#print(max(df["data"].apply(len)))
 
 # Now we need to OHE this big DF, with first one removed to stop colinearity
 # df = pd.get_dummies(df, prefix=['type'], columns=['type'], drop_first = True)
