@@ -18,7 +18,7 @@ warnings.simplefilter(action='ignore', category=Warning)
 
 class TextCNN:
     def __init__(self, filter_sizes,num_filters,num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,vocab_size,embed_size,
-                is_training ,initializer=tf.random_normal_initializer(stddev=0.1),clip_gradients=5.0,decay_rate_big=0.50, leaky_alpha= 0.2, l2_lambda=0.0001):
+                is_training = False,initializer=tf.random_normal_initializer(stddev=0.1),clip_gradients=5.0,decay_rate_big=0.50, leaky_alpha= 0.2, l2_lambda=0.0001):
         """init all hyperparameter here"""
         # set hyperparamter
         self.num_classes = num_classes
@@ -143,7 +143,6 @@ class TextCNN:
     def loss(self):   
         with tf.name_scope("loss"):
             losses = tf.nn.sparse_softmax_cross_entropy_with_logits(labels = self.y_in, logits = self.logits)
-            loss = tf.reduce_mean(losses)
             # Didn't think of this, will try to model for different parameters also
             l2_losses = tf.add_n([tf.nn.l2_loss(v) for v in tf.trainable_variables() if 'bias' not in v.name]) * self.l2_lambda
             loss = loss+l2_losses
@@ -176,7 +175,7 @@ def test():
     #below is a function test; if you use this for text classifiction, you need to transform sentence to indices of vocabulary first. then feed data to the graph.
     num_classes=4
     learning_rate=0.001
-    batch_size=10
+    batch_size=5
     decay_steps=1000
     decay_rate=0.95
     sequence_length=5                 ### WILL NEED TWEAKING
@@ -196,8 +195,8 @@ def test():
             input_x=np.random.randn(batch_size,sequence_length) #[None, self.sequence_length]
             input_x[input_x>=0]=1
             input_x[input_x <0] = 0
-            input_y = np.random.randint(4, size = batch_size)
-            print(input_x, input_y)
+            input_y = compute_single_label(input_x)
+            #print(input_x, input_y)
             loss,possibility,W_projection_value,_=sess.run([textRNN.loss_val,textRNN.possibility,textRNN.W_projection,textRNN.train_op],
                                                     feed_dict={textRNN.X_in:input_x,textRNN.y_in:input_y,
                                                                textRNN.dropout_keep_prob:dropout_keep_prob,textRNN.tst:False,
@@ -206,18 +205,9 @@ def test():
             print("label:",input_y)#print("possibility:",possibility)
 
 def compute_single_label(listt):
-    result=[]
-    length=len(listt)
-    for i,e in enumerate(listt):
-        previous=listt[i-1] if i>0 else 0
-        current=listt[i]
-        next=listt[i+1] if i<length-1 else 0
-        summ=previous+current+next
-        if summ>=2:
-            summ=1
-        else:
-            summ=0
-        result.append(summ)
-    return result
+    outlist = []
+    for l in listt:
+        outlist.append(sum(l)%4)
+    return outlist
 
 test()
