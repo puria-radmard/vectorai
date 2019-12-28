@@ -166,7 +166,7 @@ import string
 def characterise_inputs(word):
     return " ".join([x if x in string.printable else " " for x in str(word)])
 
-from training_data import X_train, y_train, X_test, y_test
+from compiling_data import X_train, y_train, X_test, y_test
 
 X_train = X_train.apply(characterise_inputs)
 X_test = X_train.apply(characterise_inputs)

@@ -16,10 +16,12 @@ is_training=True
 dropout_keep_prob=1.0
 filter_sizes=[4,5,6]
 num_filters=128
+
 textRNN=TextCNN(filter_sizes,num_filters,num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,embed_size,is_training)
 
 n_epochs = 8
 saver = tf.train.Saver()
+
 
 with tf.Session() as sess:
     
@@ -31,8 +33,10 @@ with tf.Session() as sess:
 
             input_x = np.stack(X_train.iloc[i*batch_size : batch_size*(i+1)].apply(em_aug).values)         # New augmentation every time
             input_y = y_train.iloc[i*batch_size : batch_size*(i+1)].values
-            input_y = np.vectorize(dictionary.get)(y_train).reshape(-1)
+            input_y = np.vectorize(dictionary.get)(input_y).reshape(-1)
             loss,possibility,W_projection_value,_=sess.run([textRNN.loss_val,textRNN.possibility,textRNN.W_projection,textRNN.train_op],
                                                     feed_dict={textRNN.X_in:input_x,textRNN.y_in:input_y,
                                                                 textRNN.dropout_keep_prob:dropout_keep_prob,textRNN.tst:False,
-                                                                textRNN.is_training_flag:is_training})   
+                                                                textRNN.is_training_flag:is_training})
+
+        print("Batch {} of epoch {} completed, loss = {}".format(i, n, loss))
