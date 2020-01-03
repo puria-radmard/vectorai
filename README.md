@@ -29,3 +29,4 @@ Things that could be added/improved/changed:
 •	Find a way to continue past 3 pages on the companies register for each country
 •	Improve augmentation techniques for embedded strings
 •	Change architecture to single layer (?)
+ 
