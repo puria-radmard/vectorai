@@ -40,3 +40,5 @@ with tf.Session() as sess:
                                                                 textRNN.is_training_flag:is_training})
 
         print("Batch {} of epoch {} completed, loss = {}".format(i, n, loss))
+    
+    save_patch = saver.save(sess, "./vectorai_word_classifier.ckpt")
