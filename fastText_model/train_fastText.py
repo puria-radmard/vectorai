@@ -48,14 +48,11 @@ def train_and_save():
                 input_x = np.stack(X_train.iloc[i*batch_size : batch_size*(i+1)].apply(em_aug).values)         # New augmentation every time
                 input_y = y_train.iloc[i*batch_size : batch_size*(i+1)].values.reshape(-1)
                 input_y = [dictionary[y] for y in input_y]
-                #print (input_x)
                 #input_x, input_y = remove_nones(input_x, input_y)           # Changed it now so that empty entries only have an empty array
-                #print (input_x)  
 
                 curr_eval_loss,logit,_ = sess.run([fast_text.loss_val,fast_text.logits,fast_text.train_op], #curr_eval_acc-->fast_text.accuracy
                                           feed_dict={fast_text.sentence: input_x, fast_text.labels: input_y})                                                            # Had to be added
-                #print(i,"loss:",curr_eval_loss,"-------------------------------------------------------")
-                #print("label:",input_y)#print("possibility:",possibility)
+                
                 tf.get_variable_scope().reuse_variables()
 
 

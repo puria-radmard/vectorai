@@ -63,4 +63,4 @@ import pandas as pd
 
 d = {"data": data, "type": ["Vessel" for x in data]}
 outcsv = pd.DataFrame(data = d)
-outcsv.to_csv("C:/Users/puria/source/repos/puria-radmard/vectorai/Latest Data/vessels.csv")
+#outcsv.to_csv("C:/Users/puria/source/repos/puria-radmard/vectorai/Latest Data/vessels.csv")
