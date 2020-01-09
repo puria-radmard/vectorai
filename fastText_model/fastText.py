@@ -58,7 +58,7 @@ class fastTextB:
         self.sentence_embeddings = tf.reduce_mean(self.sentence, axis=1)  # [None,self.embed_size]
 
         # 3.linear classifier layer
-        logits = tf.matmul(self.sentence_embeddings, self.W) + self.b #[None, self.label_size]==tf.matmul([None,self.embed_size],[self.embed_size,self.label_size])
+        logits = tf.add(tf.matmul(self.sentence_embeddings, self.W), self.b, name = "logits") #[None, self.label_size]==tf.matmul([None,self.embed_size],[self.embed_size,self.label_size])
         return logits
 
 

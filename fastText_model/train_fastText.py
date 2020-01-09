@@ -12,7 +12,7 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-dictionary = {"Company": [0, 0, 0, 1], "Date": [0, 0, 1, 0], "Location": [0, 1, 0, 0], "Vessel": [1, 0, 0, 0]}
+dictionary = {"Company": [1, 0, 0, 0], "Date": [0, 1, 0, 0], "Location": [0, 0, 1, 0], "Vessel": [0, 0, 0, 1]}
 learning_rate = 0.001
 batch_size = 50
 decay_steps = 128
