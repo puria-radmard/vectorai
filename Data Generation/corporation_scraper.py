@@ -29,6 +29,7 @@ def scrapeRegister(url, driver):
 
         next_button = driver.find_element_by_xpath("/html/body/div[2]/div[2]/div[1]/div[2]/div/div[1]/ul/li[8]/a")
         next_button.click()
+        #time.sleep(1)
 
     return outlist
 
@@ -48,6 +49,8 @@ def findRegisters(url):
     for elem in driver.find_elements_by_xpath("/html/body/div/div/div/div/div/div/table/tbody/tr/td/a[contains(@href, '/companies/')]"):
         new_page = elem.get_attribute("href")
         pages.append(new_page)
+
+    print(pages)
         
     for page in pages:
         print(page)

@@ -1,4 +1,3 @@
-from compiling_data import df, usable_char, splitwords
 from gensim.models import Word2Vec
 import gensim
 import random
@@ -7,6 +6,7 @@ import numpy as np
 def w2vmodel(build = False, show = False, model_rev = False):
 
     if build:
+        from compiling_data import df, usable_char, splitwords
         # Produce list of lists for gensim to CHARACTER embed
         embed_size = 100
         sent = [x for x in df["data"]]
@@ -58,6 +58,9 @@ def embed_and_augment_data(word, model = model, length = 40):   # Input has to b
 
     while len(outword) != length:
         lng = len(outword)
+
+        if lng == 0:
+            return np.zeros((length, 100))
         
         if lng > length:                                   # Average two random adjacent vectors until length matches
             ind = np.random.randint(0, lng - 1)

@@ -34,7 +34,9 @@ def scrapeWithScript(url, xpath, iteratorID):
     TIMEOUT  = 5
     LOADING_ELEMENT_XPATH = "vesselsearch_table_processing"
 
-    while len(outlist) <= 300:
+    while len(outlist) <= 692:
+        print(len(outlist))
+
         for elem in driver.find_elements_by_xpath("/html/body/main/div/div/table/tbody/tr/td/div/div/strong/a"):
             if elem.text not in outlist: outlist.append(elem.text)
             n+=1

@@ -15,6 +15,16 @@
 # embed them in the CNN.
 
 import tensorflow as tf
+compat = False
+
+try:
+    print(tf.assign)
+except:
+    import tensorflow.compat.v1 as tf
+    tf.disable_eager_execution()
+    compat = True
+
+
 import numpy as np
 import warnings
 warnings.simplefilter(action='ignore', category=Warning)
@@ -84,6 +94,7 @@ class TextCNN:
         
         with tf.name_scope('output'):
             logits = tf.matmul(h, self.W_projection) + self.b_projection
+            print("logits of size:", tf.size(logits))
         return logits
 
     def cnn_layers(self):
@@ -99,7 +110,10 @@ class TextCNN:
                 filter = tf.get_variable("filter-size-{}".format(filter_size), [filter_size, self.embed_size, 1, self.num_filters])
     
                 conv1 = tf.nn.conv2d(self.embeddings_expanded, filter, strides = [1,1,1,1], padding = 'SAME', name = 'conv1')
-                conv1 = tf.contrib.layers.batch_norm(conv1, is_training = self.is_training_flag, scope = 'cnn-layer1')
+                if not compat:
+                    conv1 = tf.contrib.layers.batch_norm(conv1, is_training = self.is_training_flag, scope = 'cnn-layer1')
+                else:
+                    conv1 = tf.layers.batch_normalization(conv1, training = self.is_training_flag)
                 print(i, "conv1: ", conv1)
                 # Learned bias for this layer
                 b1 = tf.get_variable("b-{}".format(filter_size), [self.num_filters])
@@ -113,7 +127,10 @@ class TextCNN:
                 # Second layer: Same again but with no leaky relu, just relu
                 filter2 = tf.get_variable("filter2-%s" % filter_size,[filter_size, self.num_filters, 128, self.num_filters])   #,initializer=self.initializer)
                 conv2 = tf.nn.conv2d(h, filter2, strides=[1,1,1,1], padding="SAME",name="conv2")  # shape:[batch_size, convolved length: sequence_length-filter_size*2+2, final convolved vector: 1, num_filters]
-                conv2 = tf.contrib.layers.batch_norm(conv2, is_training=self.is_training_flag, scope='cnn2')
+                if not compat:
+                    conv2 = tf.contrib.layers.batch_norm(conv2, is_training=self.is_training_flag, scope='cnn2')
+                else:
+                    conv2 = tf.layers.batch_normalization(conv2, training = self.is_training_flag)
                 print(i, "conv2:", conv2)
                 # Had to change
                 b2 = tf.get_variable("b2-%s" % filter_size, [self.num_filters])
@@ -174,12 +191,13 @@ def test():
     dropout_keep_prob=1.0
     filter_sizes=[2,3,4]
     num_filters=128
-    print("wow")
+    
     textRNN=TextCNN(filter_sizes,num_filters,num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,embed_size,is_training)
-    print("wow2")
+    
+
     with tf.Session() as sess:
         sess.run(tf.global_variables_initializer())
-        for i in range(1):
+        for i in range(2):
             print("WOW3")
             input_x=np.random.randn(batch_size,sequence_length, embed_size)
             input_y = [np.random.randint(0,4) for a in range(batch_size)]
@@ -188,7 +206,8 @@ def test():
                                                     feed_dict={textRNN.X_in:input_x,textRNN.y_in:input_y,
                                                                textRNN.dropout_keep_prob:dropout_keep_prob,textRNN.tst:False,
                                                                textRNN.is_training_flag:is_training})                                                              # Had to be added
-            #print(i,"loss:",loss,"-------------------------------------------------------")
-            #print("label:",input_y)#print("possibility:",possibility)
+            print(i,"loss:",loss,"-------------------------------------------------------")
+            print("label:",input_y)#print("possibility:",possibility)
+            tf.get_variable_scope().reuse_variables()
 
-#test()
+test()

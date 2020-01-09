@@ -1,0 +1,2 @@
+model_checkpoint_path: "vectorai_fastText_classifier.ckpt"
+all_model_checkpoint_paths: "vectorai_fastText_classifier.ckpt"

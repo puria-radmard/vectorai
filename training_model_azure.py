@@ -1,12 +1,35 @@
 from my_CNN import TextCNN
-from word_embeddings import embed_and_augment_data as em_aug
-from compiling_data import X_train, X_test, y_train, y_test
+
+# Since Azure can't take gensim
+#from word_embeddings import embed_and_augment_data as em_aug
+
+# Since Azure can't take sklearn as well
+#from compiling_data import X_train, X_test, y_train, y_test
 import pandas as pd
-
-print(y_test.head, X_test.head)
-
 import numpy as np
+
+X_train = np.load("splitted_data/X_train.npy")
+y_train = np.load("splitted_data/y_train.npy")
+X_test = np.load("splitted_data/X_test.npy")
+y_test = np.load("splitted_data/y_test.npy")
+
+print(y_test[0], X_test[0])
+
 import tensorflow as tf
+compat = False
+
+try:
+    print(tf.assign)
+except:
+    import tensorflow.compat.v1 as tf
+    tf.disable_eager_execution()
+    compat = True
+
+print(compat)
+
+## for AML
+from amlrun import get_AMLRun
+run = get_AMLRun()
 
 dictionary = {"Company": 0, "Date": 1, "Location": 2, "Vessel": 3}
 num_classes=4
@@ -35,14 +58,18 @@ def train_and_save():
 
             for i in range(len(X_train) % batch_size):
 
-                input_x = np.stack(X_train.iloc[i*batch_size : batch_size*(i+1)].apply(em_aug).values)         # New augmentation every time
-                input_y = y_train.iloc[i*batch_size : batch_size*(i+1)].values
+                input_x = np.stack(X_train[i*batch_size : batch_size*(i+1)]) #.apply(em_aug).values)         # CANNOT DO New augmentation every time with Azure, as it does not recognise gensim
+                input_y = y_train[i*batch_size : batch_size*(i+1)]
                 input_y = np.vectorize(dictionary.get)(input_y).reshape(-1)
                 loss,possibility,W_projection_value,_=sess.run([textRNN.loss_val,textRNN.possibility,textRNN.W_projection,textRNN.train_op],
                                                         feed_dict={textRNN.X_in:input_x,textRNN.y_in:input_y,
                                                                     textRNN.dropout_keep_prob:dropout_keep_prob,textRNN.tst:False,
                                                                     textRNN.is_training_flag:is_training})
+                tf.get_variable_scope().reuse_variables()
 
+            ##  Maybe report on accuracy for each epoch later?
+            if run!= None:
+                run.log('Loss = ', np.float(loss))
 
             print("Epoch {} completed, loss = {}".format(n, loss))
         

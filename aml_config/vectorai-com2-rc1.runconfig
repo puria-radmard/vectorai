@@ -1,0 +1,39 @@
+{
+    "script": "training_model.py",
+    "framework": "Python",
+    "communicator": "None",
+    "target": "vectorai-com2",
+    "environment": {
+        "python": {
+            "userManagedDependencies": false,
+            "condaDependencies": {
+                "dependencies": [
+                    "python=3.6.2",
+                    "tensorflow",
+                    {
+                        "pip": [
+                            "azureml-defaults"
+                        ]
+                    }
+                ]
+            }
+        },
+        "docker": {
+            "baseImage": "mcr.microsoft.com/azureml/base:0.2.4",
+            "enabled": true,
+            "baseImageRegistry": {
+                "address": null,
+                "username": null,
+                "password": null
+            }
+        }
+    },
+    "nodeCount": 1,
+    "history": {
+        "outputCollection": true,
+        "snapshotProject": false,
+        "directoriesToWatch": [
+            "logs"
+        ]
+    }
+}
