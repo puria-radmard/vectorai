@@ -1,4 +1,4 @@
-index,data,type
+,data,type
 0,Aabenraa,Location
 1,Aagotnes,Location
 2,Aalborg,Location
@@ -1097,2075 +1097,2084 @@ index,data,type
 1095,Jinshi,Location
 1096,Jinzhou,Location
 1097,Jiujiang,Location
-1098,Joensuu,Location
-1099,Jolo,Location
-1100,Jorf Lasfar,Location
-1101,Jose Ignacio Terminal,Location
-1102,Jose Panganiban,Location
-1103,Joutseno,Location
-1104,Juaymah Terminal,Location
-1105,Jubail (Commercial Port),Location
-1106,Jubail (Industrial Port),Location
-1107,Jucaro,Location
-1108,Juneau,Location
-1109,Jurong Port,Location
-1110,Kaarsto,Location
-1111,Kagoshima,Location
-1112,Kahului,Location
-1113,Kake,Location
-1114,Kakinada,Location
-1115,Kakogawa,Location
-1116,Kalajoki,Location
-1117,Kalama,Location
-1118,Kalamaki,Location
-1119,Kalamata,Location
-1120,Kalecik,Location
-1121,Kali Limenes,Location
-1122,Kalianget,Location
-1123,Kalingapatnam,Location
-1124,Kaliningrad,Location
-1125,Kalix,Location
-1126,Kalmar,Location
-1127,Kalundborg,Location
-1128,Kalymnos,Location
-1129,Kamaishi,Location
-1130,Kamsar,Location
-1131,Kanazawa,Location
-1132,Kanda,Location
-1133,Kandalaksha,Location
-1134,Kandla,Location
-1135,Kangerluarsoruseq,Location
-1136,Kangerlussuaq,Location
-1137,Kangilinnguit,Location
-1138,Kanokawa,Location
-1139,Kantvik,Location
-1140,Kaohsiung,Location
-1141,Kaolack,Location
-1142,Kapellskar,Location
-1143,Kappeln,Location
-1144,Karachi,Location
-1145,Karaikal,Location
-1146,Karatsu,Location
-1147,Karavostassi,Location
+1098,Jiujiang,Location
+1099,Joensuu,Location
+1100,Jolo,Location
+1101,Jorf Lasfar,Location
+1102,Jose Ignacio Terminal,Location
+1103,Jose Panganiban,Location
+1104,Joutseno,Location
+1105,Juaymah Terminal,Location
+1106,Jubail (Commercial Port),Location
+1107,Jubail (Industrial Port),Location
+1108,Jucaro,Location
+1109,Juneau,Location
+1110,Jurong Port,Location
+1111,Kaarsto,Location
+1112,Kagoshima,Location
+1113,Kahului,Location
+1114,Kake,Location
+1115,Kakinada,Location
+1116,Kakogawa,Location
+1117,Kalajoki,Location
+1118,Kalama,Location
+1119,Kalamaki,Location
+1120,Kalamata,Location
+1121,Kalecik,Location
+1122,Kali Limenes,Location
+1123,Kalianget,Location
+1124,Kalingapatnam,Location
+1125,Kaliningrad,Location
+1126,Kalix,Location
+1127,Kalmar,Location
+1128,Kalundborg,Location
+1129,Kalymnos,Location
+1130,Kamaishi,Location
+1131,Kamsar,Location
+1132,Kanazawa,Location
+1133,Kanda,Location
+1134,Kandalaksha,Location
+1135,Kandla,Location
+1136,Kangerluarsoruseq,Location
+1137,Kangerlussuaq,Location
+1138,Kangilinnguit,Location
+1139,Kanokawa,Location
+1140,Kantvik,Location
+1141,Kaohsiung,Location
+1142,Kaolack,Location
+1143,Kapellskar,Location
+1144,Kappeln,Location
+1145,Karachi,Location
+1146,Karaikal,Location
+1147,Karatsu,Location
 1148,Karavostassi,Location
-1149,Karlshamn,Location
-1150,Karlskrona,Location
-1151,Karlsruhe,Location
-1152,Karlstad,Location
-1153,Karumba,Location
-1154,Karwar,Location
-1155,Kasaoka,Location
-1156,Kashima,Location
-1157,Kashiwazaki,Location
-1158,Kasim Terminal,Location
-1159,Kaskinen,Location
-1160,Katakolon,Location
-1161,Kaunakakai,Location
-1162,Kavala,Location
-1163,Kavieng,Location
-1164,Kavkaz,Location
-1165,Kawaihae,Location
-1166,Kawasaki,Location
-1167,Keadby,Location
-1168,Keelung,Location
-1169,Keflavik,Location
-1170,Kehl,Location
-1171,Kemaman,Location
-1172,Kemi,Location
-1173,Kendari,Location
-1174,Kenitra,Location
-1175,Kenosha,Location
-1176,Kepez,Location
-1177,Kerawalapitiya Terminal,Location
-1178,Kerch,Location
-1179,Kerteh Terminal,Location
-1180,Kerteminde,Location
-1181,Kesennuma,Location
-1182,Ketchikan,Location
-1183,Key West,Location
-1184,Khalifa Bin Salman Port,Location
-1185,Khanom,Location
-1186,Kharg Island,Location
-1187,Khatanga,Location
-1188,Kherson,Location
-1189,Kholmsk,Location
-1190,Khoms,Location
-1191,Khor al Amaya Terminal,Location
-1192,Khor Fakkan,Location
-1193,Khorramshahr,Location
-1194,Kiel,Location
-1195,Kieta,Location
-1196,Kiire,Location
-1197,Kijang,Location
-1198,Kikeh Terminal,Location
-1199,Kikuma,Location
-1200,Kiliya,Location
-1201,Killybegs,Location
-1202,Kilroot,Location
-1203,Kilrush,Location
-1204,Kimbe,Location
-1205,King Cove,Location
-1206,King's Lynn,Location
-1207,Kingsnorth,Location
-1208,Kingston,Location
-1209,Kingstown,Location
-1210,Kinsale,Location
-1211,Kinuura,Location
-1212,Kirkcaldy,Location
-1213,Kirkcudbright,Location
-1214,Kirkenes,Location
-1215,Kirkwall,Location
-1216,Kisarazu,Location
-1217,Kish Island,Location
-1218,Kismayu,Location
-1219,Kitimat,Location
-1220,Klaipeda,Location
-1221,Klaksvik,Location
-1222,Klawock,Location
-1223,Klein Point,Location
-1224,Klintehamn,Location
-1225,Ko Sichang,Location
-1226,Kobe,Location
-1227,Kochi,Location
+1149,Karavostassi,Location
+1150,Karlshamn,Location
+1151,Karlskrona,Location
+1152,Karlsruhe,Location
+1153,Karlstad,Location
+1154,Karumba,Location
+1155,Karwar,Location
+1156,Kasaoka,Location
+1157,Kashima,Location
+1158,Kashiwazaki,Location
+1159,Kasim Terminal,Location
+1160,Kaskinen,Location
+1161,Katakolon,Location
+1162,Kaunakakai,Location
+1163,Kavala,Location
+1164,Kavieng,Location
+1165,Kavkaz,Location
+1166,Kawaihae,Location
+1167,Kawasaki,Location
+1168,Keadby,Location
+1169,Keelung,Location
+1170,Keflavik,Location
+1171,Kehl,Location
+1172,Kemaman,Location
+1173,Kemi,Location
+1174,Kendari,Location
+1175,Kenitra,Location
+1176,Kenosha,Location
+1177,Kepez,Location
+1178,Kerawalapitiya Terminal,Location
+1179,Kerch,Location
+1180,Kerteh Terminal,Location
+1181,Kerteminde,Location
+1182,Kesennuma,Location
+1183,Ketchikan,Location
+1184,Key West,Location
+1185,Khalifa Bin Salman Port,Location
+1186,Khanom,Location
+1187,Kharg Island,Location
+1188,Khatanga,Location
+1189,Kherson,Location
+1190,Kholmsk,Location
+1191,Khoms,Location
+1192,Khor al Amaya Terminal,Location
+1193,Khor Fakkan,Location
+1194,Khorramshahr,Location
+1195,Kiel,Location
+1196,Kieta,Location
+1197,Kiire,Location
+1198,Kijang,Location
+1199,Kikeh Terminal,Location
+1200,Kikuma,Location
+1201,Kiliya,Location
+1202,Killybegs,Location
+1203,Kilroot,Location
+1204,Kilrush,Location
+1205,Kimbe,Location
+1206,King Cove,Location
+1207,King's Lynn,Location
+1208,Kingsnorth,Location
+1209,Kingston,Location
+1210,Kingstown,Location
+1211,Kinsale,Location
+1212,Kinuura,Location
+1213,Kirkcaldy,Location
+1214,Kirkcudbright,Location
+1215,Kirkenes,Location
+1216,Kirkwall,Location
+1217,Kisarazu,Location
+1218,Kish Island,Location
+1219,Kismayu,Location
+1220,Kitimat,Location
+1221,Klaipeda,Location
+1222,Klaksvik,Location
+1223,Klawock,Location
+1224,Klein Point,Location
+1225,Klintehamn,Location
+1226,Ko Sichang,Location
+1227,Kobe,Location
 1228,Kochi,Location
-1229,Kodiak,Location
-1230,Koge,Location
-1231,Kokkola,Location
-1232,Koko,Location
-1233,Kokura,Location
-1234,Kolding,Location
-1235,Kole Terminal,Location
-1236,Kolkata,Location
-1237,Kolobrzeg,Location
-1238,Komarno,Location
-1239,Komatsushima,Location
-1240,Kome-Kribi 1 Terminal,Location
-1241,Kongsdal,Location
-1242,Koper,Location
-1243,Kopervik,Location
-1244,Koping,Location
-1245,Korcula,Location
-1246,Koror,Location
-1247,Korsakov,Location
-1248,Korsor,Location
-1249,Kos,Location
-1250,Kota Kinabalu,Location
-1251,Kotka,Location
-1252,Kotor,Location
-1253,Koverhar,Location
-1254,Kozmino,Location
-1255,Kpeme,Location
-1256,Kragero,Location
-1257,Kralendijk,Location
-1258,Krefeld,Location
-1259,Krems,Location
-1260,Kribi,Location
-1261,Krishnapatnam,Location
-1262,Kristiansand,Location
-1263,Kristiansund,Location
-1264,Kristiinankaupunki,Location
-1265,Kristinehamn,Location
-1266,Kuala Belait,Location
-1267,Kuala Kapuas,Location
-1268,Kuantan,Location
-1269,Kuching,Location
-1270,Kudamatsu,Location
-1271,Kudat,Location
-1272,Kulevi Terminal,Location
-1273,Kulpi,Location
-1274,Kunak,Location
-1275,Kunda,Location
-1276,Kunshan,Location
-1277,Kuopio,Location
-1278,Kupang,Location
-1279,Kure,Location
-1280,Kusadasi,Location
-1281,Kushiro,Location
-1282,Kyle of Lochalsh,Location
-1283,Kymassi,Location
-1284,Kyrenia,Location
-1285,La Baie,Location
-1286,La Ceiba,Location
+1229,Kochi,Location
+1230,Kodiak,Location
+1231,Koge,Location
+1232,Kokkola,Location
+1233,Koko,Location
+1234,Kokura,Location
+1235,Kolding,Location
+1236,Kole Terminal,Location
+1237,Kolkata,Location
+1238,Kolobrzeg,Location
+1239,Komarno,Location
+1240,Komatsushima,Location
+1241,Kome-Kribi 1 Terminal,Location
+1242,Kongsdal,Location
+1243,Koper,Location
+1244,Kopervik,Location
+1245,Koping,Location
+1246,Korcula,Location
+1247,Koror,Location
+1248,Korsakov,Location
+1249,Korsor,Location
+1250,Kos,Location
+1251,Kota Kinabalu,Location
+1252,Kotka,Location
+1253,Kotor,Location
+1254,Koverhar,Location
+1255,Kozmino,Location
+1256,Kpeme,Location
+1257,Kragero,Location
+1258,Kralendijk,Location
+1259,Krefeld,Location
+1260,Krems,Location
+1261,Kribi,Location
+1262,Krishnapatnam,Location
+1263,Kristiansand,Location
+1264,Kristiansund,Location
+1265,Kristiinankaupunki,Location
+1266,Kristinehamn,Location
+1267,Kuala Belait,Location
+1268,Kuala Kapuas,Location
+1269,Kuantan,Location
+1270,Kuching,Location
+1271,Kudamatsu,Location
+1272,Kudat,Location
+1273,Kulevi Terminal,Location
+1274,Kulpi,Location
+1275,Kunak,Location
+1276,Kunda,Location
+1277,Kunshan,Location
+1278,Kuopio,Location
+1279,Kupang,Location
+1280,Kure,Location
+1281,Kusadasi,Location
+1282,Kushiro,Location
+1283,Kyle of Lochalsh,Location
+1284,Kymassi,Location
+1285,Kyrenia,Location
+1286,La Baie,Location
 1287,La Ceiba,Location
-1288,La Ciotat,Location
-1289,La Estaca,Location
-1290,La Estacada,Location
-1291,La Goulette,Location
-1292,La Guaira,Location
-1293,La Libertad,Location
+1288,La Ceiba,Location
+1289,La Ciotat,Location
+1290,La Estaca,Location
+1291,La Estacada,Location
+1292,La Goulette,Location
+1293,La Guaira,Location
 1294,La Libertad,Location
-1295,La Maddalena,Location
-1296,La Nouvelle,Location
-1297,La Pallice,Location
-1298,La Pampilla,Location
-1299,La Paz,Location
-1300,La Plata,Location
-1301,La Rochelle,Location
-1302,La Romana,Location
-1303,La Salina,Location
-1304,La Salineta,Location
-1305,La Savina,Location
-1306,La Skhira,Location
-1307,La Spezia,Location
-1308,Laayoune (Western Sahara),Location
-1309,Laboe,Location
-1310,Labuan,Location
-1311,Ladysmith,Location
-1312,Lae,Location
-1313,Laem Chabang,Location
-1314,Lagoa Parda Terminal,Location
-1315,Lahad Datu,Location
-1316,Laizhou,Location
-1317,Lake Charles,Location
-1318,Lalang Terminal,Location
-1319,Laminaria-Corallina Terminal,Location
-1320,Lampedusa,Location
-1321,Lamu,Location
-1322,Landskrona,Location
-1323,Langsa Terminal,Location
-1324,Lanshan,Location
-1325,Lanxi,Location
-1326,Largs,Location
-1327,Larnaca,Location
-1328,Larne,Location
-1329,Larvik,Location
-1330,Las Mareas,Location
-1331,Las Minas Bay,Location
-1332,Las Palmas,Location
-1333,Las Piedras,Location
-1334,Lattakia,Location
-1335,Launceston,Location
-1336,Laurium,Location
-1337,Lautoka,Location
-1338,Lavan Island,Location
-1339,Lavera,Location
+1295,La Libertad,Location
+1296,La Maddalena,Location
+1297,La Nouvelle,Location
+1298,La Pallice,Location
+1299,La Pampilla,Location
+1300,La Paz,Location
+1301,La Plata,Location
+1302,La Rochelle,Location
+1303,La Romana,Location
+1304,La Salina,Location
+1305,La Salineta,Location
+1306,La Savina,Location
+1307,La Skhira,Location
+1308,La Spezia,Location
+1309,Laayoune (Western Sahara),Location
+1310,Laboe,Location
+1311,Labuan,Location
+1312,Ladysmith,Location
+1313,Lae,Location
+1314,Laem Chabang,Location
+1315,Lagoa Parda Terminal,Location
+1316,Lahad Datu,Location
+1317,Laizhou,Location
+1318,Lake Charles,Location
+1319,Lalang Terminal,Location
+1320,Laminaria-Corallina Terminal,Location
+1321,Lampedusa,Location
+1322,Lamu,Location
+1323,Landskrona,Location
+1324,Langsa Terminal,Location
+1325,Lanshan,Location
+1326,Lanxi,Location
+1327,Largs,Location
+1328,Larnaca,Location
+1329,Larne,Location
+1330,Larvik,Location
+1331,Las Mareas,Location
+1332,Las Minas Bay,Location
+1333,Las Palmas,Location
+1334,Las Piedras,Location
+1335,Lattakia,Location
+1336,Launceston,Location
+1337,Laurium,Location
+1338,Lautoka,Location
+1339,Lavan Island,Location
 1340,Lavera,Location
-1341,Lawe-Lawe Terminal,Location
-1342,Lazarev,Location
-1343,Lazaro Cardenas,Location
-1344,Le Guildo,Location
-1345,Le Havre,Location
-1346,Le Legue/St. Brieuc,Location
-1347,Le Treport,Location
-1348,Le Verdon,Location
+1341,Lavera,Location
+1342,Lawe-Lawe Terminal,Location
+1343,Lazarev,Location
+1344,Lazaro Cardenas,Location
+1345,Le Guildo,Location
+1346,Le Havre,Location
+1347,Le Legue/St. Brieuc,Location
+1348,Le Treport,Location
 1349,Le Verdon,Location
-1350,Leer,Location
-1351,Legaspi,Location
+1350,Le Verdon,Location
+1351,Leer,Location
 1352,Legaspi,Location
-1353,Legendre Terminal,Location
-1354,Leghorn,Location
-1355,Leirvik,Location
-1356,Leith,Location
-1357,Leixoes,Location
-1358,Lembar,Location
-1359,Lemvig,Location
-1360,Lerma,Location
-1361,Lerwick,Location
-1362,Lewiston,Location
-1363,Lhoknga,Location
-1364,Lhokseumawe,Location
-1365,Lianyungang,Location
-1366,Libourne,Location
-1367,Libreville,Location
-1368,Licata,Location
-1369,Lidkoping,Location
-1370,Liege,Location
-1371,Liepaja,Location
-1372,Lillesand,Location
-1373,Lima,Location
-1374,Limassol,Location
-1375,Limay,Location
-1376,Limbe,Location
-1377,Limboh Terminal,Location
-1378,Limetree Bay,Location
+1353,Legaspi,Location
+1354,Legendre Terminal,Location
+1355,Leghorn,Location
+1356,Leirvik,Location
+1357,Leith,Location
+1358,Leixoes,Location
+1359,Lembar,Location
+1360,Lemvig,Location
+1361,Lerma,Location
+1362,Lerwick,Location
+1363,Lewiston,Location
+1364,Lhoknga,Location
+1365,Lhokseumawe,Location
+1366,Lianyungang,Location
+1367,Libourne,Location
+1368,Libreville,Location
+1369,Licata,Location
+1370,Lidkoping,Location
+1371,Liege,Location
+1372,Liepaja,Location
+1373,Lillesand,Location
+1374,Lima,Location
+1375,Limassol,Location
+1376,Limay,Location
+1377,Limbe,Location
+1378,Limboh Terminal,Location
 1379,Limetree Bay,Location
-1380,Lipari,Location
-1381,Lirquen,Location
-1382,Lisbon,Location
-1383,Liscomb,Location
-1384,Little Narrows,Location
-1385,Little Rock,Location
-1386,Littlehampton,Location
-1387,Liuhua Terminal,Location
-1388,Liverpool,Location
+1380,Limetree Bay,Location
+1381,Lipari,Location
+1382,Lirquen,Location
+1383,Lisbon,Location
+1384,Liscomb,Location
+1385,Little Narrows,Location
+1386,Little Rock,Location
+1387,Littlehampton,Location
+1388,Liuhua Terminal,Location
 1389,Liverpool,Location
-1390,Llanddulas,Location
-1391,Lobito,Location
-1392,Loch Roag,Location
-1393,Lochboisdale,Location
-1394,Lochmaddy,Location
-1395,Lodingen,Location
-1396,Lom,Location
-1397,Lombo Terminal,Location
-1398,Lome,Location
-1399,Lomonosov,Location
-1400,London,Location
-1401,London Thamesport,Location
-1402,Londonderry,Location
-1403,Long Beach,Location
-1404,Long Harbour,Location
-1405,Long Point,Location
-1406,Long Pond,Location
-1407,Longkou,Location
-1408,Longoni,Location
-1409,Longview,Location
-1410,Longyan,Location
-1411,LOOP Terminal,Location
-1412,Lorain,Location
-1413,Lorengau,Location
-1414,Lorient,Location
-1415,Los Angeles,Location
-1416,Los Cristianos,Location
-1417,Louisville,Location
-1418,Loviisa,Location
-1419,Lowestoft,Location
-1420,Luanda,Location
-1421,Luba,Location
-1422,Lubeck,Location
-1423,Lucina Terminal,Location
-1424,Lucinda,Location
-1425,Luderitz,Location
-1426,Ludwigshafen am Rhein,Location
-1427,Lufeng Terminal,Location
-1428,Lulea,Location
-1429,Lumut,Location
+1390,Liverpool,Location
+1391,Llanddulas,Location
+1392,Lobito,Location
+1393,Loch Roag,Location
+1394,Lochboisdale,Location
+1395,Lochmaddy,Location
+1396,Lodingen,Location
+1397,Lom,Location
+1398,Lombo Terminal,Location
+1399,Lome,Location
+1400,Lomonosov,Location
+1401,London,Location
+1402,London Thamesport,Location
+1403,Londonderry,Location
+1404,Long Beach,Location
+1405,Long Harbour,Location
+1406,Long Point,Location
+1407,Long Pond,Location
+1408,Longkou,Location
+1409,Longoni,Location
+1410,Longview,Location
+1411,Longyan,Location
+1412,LOOP Terminal,Location
+1413,Lorain,Location
+1414,Lorengau,Location
+1415,Lorient,Location
+1416,Los Angeles,Location
+1417,Los Cristianos,Location
+1418,Louisville,Location
+1419,Loviisa,Location
+1420,Lowestoft,Location
+1421,Luanda,Location
+1422,Luba,Location
+1423,Lubeck,Location
+1424,Lucina Terminal,Location
+1425,Lucinda,Location
+1426,Luderitz,Location
+1427,Ludwigshafen am Rhein,Location
+1428,Lufeng Terminal,Location
+1429,Lulea,Location
 1430,Lumut,Location
-1431,Lunenburg,Location
-1432,Luzhou,Location
-1433,Lydney,Location
-1434,Lyngs Odde,Location
-1435,Lysekil,Location
-1436,Lyttelton,Location
-1437,M'bopicua,Location
-1438,Ma'anshan,Location
-1439,Maaloy,Location
-1440,Mabianzhou,Location
-1441,Macapa,Location
-1442,Macau,Location
-1443,Macduff,Location
-1444,Maceio,Location
-1445,Machilipatnam,Location
-1446,Mackay,Location
-1447,Macun,Location
-1448,Madang,Location
-1449,Madre de Deus,Location
-1450,Magdalla,Location
-1451,Mago,Location
-1452,Mahajanga,Location
-1453,Mahon,Location
-1454,Mai-Liao,Location
-1455,Maizuru,Location
-1456,Majuro Atoll,Location
-1457,Makassar,Location
-1458,Malabo,Location
-1459,Malacca,Location
-1460,Malaga,Location
-1461,Malampaya Terminal,Location
-1462,Maldon,Location
-1463,Male,Location
-1464,Mali Losinj,Location
-1465,Mallaig,Location
-1466,Malm,Location
-1467,Malmo,Location
-1468,Malongo Terminal,Location
-1469,Malpe,Location
-1470,Mamonal,Location
-1471,Manado,Location
-1472,Manati,Location
-1473,Manaus,Location
-1474,Manchester,Location
-1475,Mandal,Location
-1476,Mandvi,Location
-1477,Manfredonia,Location
-1478,Mangalia,Location
-1479,Maniitsoq,Location
-1480,Manila,Location
-1481,Manistee,Location
-1482,Manitowoc,Location
-1483,Mannheim,Location
-1484,Manokwari,Location
-1485,Manta,Location
-1486,Mantyluoto,Location
+1431,Lumut,Location
+1432,Lunenburg,Location
+1433,Luzhou,Location
+1434,Lydney,Location
+1435,Lyngs Odde,Location
+1436,Lysekil,Location
+1437,Lyttelton,Location
+1438,M'bopicua,Location
+1439,Ma'anshan,Location
+1440,Maaloy,Location
+1441,Mabianzhou,Location
+1442,Macapa,Location
+1443,Macau,Location
+1444,Macduff,Location
+1445,Maceio,Location
+1446,Machilipatnam,Location
+1447,Mackay,Location
+1448,Macun,Location
+1449,Madang,Location
+1450,Madre de Deus,Location
+1451,Magdalla,Location
+1452,Mago,Location
+1453,Mahajanga,Location
+1454,Mahon,Location
+1455,Mai-Liao,Location
+1456,Maizuru,Location
+1457,Majuro Atoll,Location
+1458,Makassar,Location
+1459,Malabo,Location
+1460,Malacca,Location
+1461,Malaga,Location
+1462,Malampaya Terminal,Location
+1463,Maldon,Location
+1464,Male,Location
+1465,Mali Losinj,Location
+1466,Mallaig,Location
+1467,Malm,Location
+1468,Malmo,Location
+1469,Malongo Terminal,Location
+1470,Malpe,Location
+1471,Mamonal,Location
+1472,Manado,Location
+1473,Manati,Location
+1474,Manaus,Location
+1475,Manchester,Location
+1476,Mandal,Location
+1477,Mandvi,Location
+1478,Manfredonia,Location
+1479,Mangalia,Location
+1480,Maniitsoq,Location
+1481,Manila,Location
+1482,Manistee,Location
+1483,Manitowoc,Location
+1484,Mannheim,Location
+1485,Manokwari,Location
+1486,Manta,Location
 1487,Mantyluoto,Location
-1488,Manzanillo,Location
+1488,Mantyluoto,Location
 1489,Manzanillo,Location
 1490,Manzanillo,Location
 1491,Manzanillo,Location
-1492,Maocaojie,Location
-1493,Map Ta Phut,Location
-1494,Maputo,Location
-1495,Mar del Plata,Location
-1496,Maracaibo,Location
-1497,Marathon,Location
-1498,Marcus Hook,Location
-1499,Mariager,Location
-1500,Mariehamn,Location
-1501,Mariel,Location
-1502,Mariestad,Location
-1503,Marigot,Location
-1504,Marin,Location
-1505,Marina di Carrara,Location
-1506,Mariupol,Location
-1507,Mariveles,Location
-1508,Marmaris,Location
-1509,Marquette,Location
-1510,Marsa el Brega,Location
-1511,Marsala,Location
-1512,Marsaxlokk,Location
-1513,Marseilles,Location
-1514,Marstal,Location
-1515,Maryborough,Location
-1516,Marystown,Location
-1517,Masan,Location
-1518,Masinloc,Location
-1519,Maslenica,Location
-1520,Massawa,Location
-1521,Matadi,Location
-1522,Matane,Location
-1523,Matanzas,Location
+1492,Manzanillo,Location
+1493,Maocaojie,Location
+1494,Map Ta Phut,Location
+1495,Maputo,Location
+1496,Mar del Plata,Location
+1497,Maracaibo,Location
+1498,Marathon,Location
+1499,Marcus Hook,Location
+1500,Mariager,Location
+1501,Mariehamn,Location
+1502,Mariel,Location
+1503,Mariestad,Location
+1504,Marigot,Location
+1505,Marin,Location
+1506,Marina di Carrara,Location
+1507,Mariupol,Location
+1508,Mariveles,Location
+1509,Marmaris,Location
+1510,Marquette,Location
+1511,Marsa el Brega,Location
+1512,Marsala,Location
+1513,Marsaxlokk,Location
+1514,Marseilles,Location
+1515,Marstal,Location
+1516,Maryborough,Location
+1517,Marystown,Location
+1518,Masan,Location
+1519,Masinloc,Location
+1520,Maslenica,Location
+1521,Massawa,Location
+1522,Matadi,Location
+1523,Matane,Location
 1524,Matanzas,Location
-1525,Matarani,Location
-1526,Matsushima,Location
-1527,Matsuyama,Location
-1528,Maumere,Location
-1529,Mawan,Location
-1530,Mayaguez,Location
-1531,Mayumba,Location
-1532,Mazara del Vallo,Location
-1533,Mazatlan,Location
-1534,Meeruse,Location
-1535,Mega,Location
+1525,Matanzas,Location
+1526,Matarani,Location
+1527,Matsushima,Location
+1528,Matsuyama,Location
+1529,Maumere,Location
+1530,Mawan,Location
+1531,Mayaguez,Location
+1532,Mayumba,Location
+1533,Mazara del Vallo,Location
+1534,Mazatlan,Location
+1535,Meeruse,Location
 1536,Mega,Location
-1537,Megara,Location
-1538,Mejillones,Location
-1539,Mekar Putih,Location
-1540,Melbourne,Location
-1541,Melilla,Location
-1542,Mellitah,Location
-1543,Mem,Location
-1544,Memphis,Location
-1545,Meneng,Location
-1546,Merak,Location
-1547,Merauke,Location
-1548,Merca,Location
-1549,Mersa el Hamra Terminal,Location
-1550,Mersa Matruh,Location
-1551,Mersin,Location
-1552,Mersrags,Location
-1553,Mesaieed,Location
-1554,Mesolongion,Location
-1555,Messina,Location
-1556,Methil,Location
-1557,Metlakatla,Location
-1558,Mezen,Location
-1559,Miami,Location
-1560,Middelburg,Location
-1561,Middelfart,Location
-1562,Midland,Location
-1563,Miiduranna,Location
-1564,Miike,Location
-1565,Milazzo,Location
-1566,Milford Haven,Location
-1567,Milner Bay,Location
-1568,Milwaukee,Location
-1569,Mina Abdulla,Location
-1570,Mina al Ahmadi,Location
-1571,Mina al Fahal,Location
-1572,Mina Rashid,Location
-1573,Mina Saqr,Location
-1574,Mina Saud,Location
-1575,Mina Sulman,Location
-1576,Minamata,Location
-1577,Minatitlan,Location
-1578,Mindelo,Location
-1579,Miragoane,Location
-1580,Miramar,Location
-1581,Miri,Location
-1582,Mishima-Kawanoe,Location
-1583,Misool Terminal,Location
-1584,Mistley,Location
-1585,Misumi,Location
-1586,Misurata,Location
-1587,Mitajiri,Location
-1588,Mitsukoshima,Location
-1589,Miyako,Location
-1590,Miyazu,Location
-1591,Mizushima,Location
-1592,Mo i Rana,Location
-1593,Moanda Terminal,Location
-1594,Mobile,Location
-1595,Moerdijk,Location
-1596,Mogadishu,Location
-1597,Mohammedia,Location
-1598,Moji,Location
-1599,Mokha,Location
-1600,Mokpo,Location
-1601,Molde,Location
-1602,Molfetta,Location
-1603,Mollendo,Location
-1604,Mombasa,Location
-1605,Monbetsu,Location
-1606,Monfalcone,Location
-1607,Mongla,Location
-1608,Mongstad,Location
-1609,Moni Anchorage,Location
-1610,Monopoli,Location
-1611,Monroe,Location
-1612,Monrovia,Location
-1613,Mont Louis,Location
-1614,Monte Carlo,Location
-1615,Montego Bay,Location
-1616,Montevideo,Location
-1617,Montoir,Location
-1618,Montreal,Location
-1619,Montrose,Location
-1620,Morehead City,Location
-1621,Morgan City,Location
-1622,Mormugao,Location
-1623,Moroni,Location
-1624,Morro Redondo,Location
-1625,Mosjoen,Location
-1626,Moss,Location
-1627,Mossel Bay,Location
-1628,Mostaganem,Location
-1629,Mostyn,Location
-1630,Motril,Location
-1631,Moudi Terminal,Location
-1632,Mount Vernon,Location
-1633,Mourilyan,Location
-1634,Mtwara,Location
-1635,Muara Port,Location
-1636,Mubarek Terminal,Location
-1637,Mubarras Terminal,Location
-1638,Mudanya,Location
-1639,Mukalla,Location
-1640,Mukho,Location
-1641,Mulgrave,Location
-1642,Mumbai,Location
-1643,Mundra,Location
-1644,Munguba,Location
-1645,Murmansk,Location
-1646,Muroran,Location
-1647,Muskogee,Location
-1648,Mustola,Location
-1649,Mutineer Terminal,Location
-1650,Mutsamudu,Location
-1651,My Thoi,Location
-1652,Mykonos,Location
-1653,Mytilene,Location
-1654,Naantali,Location
-1655,Nacala,Location
-1656,Nador,Location
-1657,Naestved,Location
-1658,Nagapattinam,Location
-1659,Nagasaki,Location
-1660,Nagoya,Location
-1661,Naha,Location
-1662,Nakhodka,Location
-1663,Nakskov,Location
-1664,Namibe,Location
-1665,Namikata,Location
-1666,Nampo,Location
-1667,Namsos,Location
-1668,Nanaimo,Location
-1669,Nanao,Location
-1670,Nanchang,Location
-1671,Nanchital,Location
-1672,Nanhai,Location
-1673,Nanhui,Location
-1674,Nanjing,Location
-1675,Nanortalik,Location
-1676,Nansha,Location
+1537,Mega,Location
+1538,Megara,Location
+1539,Mejillones,Location
+1540,Mekar Putih,Location
+1541,Melbourne,Location
+1542,Melilla,Location
+1543,Mellitah,Location
+1544,Mem,Location
+1545,Memphis,Location
+1546,Meneng,Location
+1547,Merak,Location
+1548,Merauke,Location
+1549,Merca,Location
+1550,Mersa el Hamra Terminal,Location
+1551,Mersa Matruh,Location
+1552,Mersin,Location
+1553,Mersrags,Location
+1554,Mesaieed,Location
+1555,Mesolongion,Location
+1556,Messina,Location
+1557,Methil,Location
+1558,Metlakatla,Location
+1559,Mezen,Location
+1560,Miami,Location
+1561,Middelburg,Location
+1562,Middelfart,Location
+1563,Midland,Location
+1564,Miiduranna,Location
+1565,Miike,Location
+1566,Milazzo,Location
+1567,Milford Haven,Location
+1568,Milner Bay,Location
+1569,Milwaukee,Location
+1570,Mina Abdulla,Location
+1571,Mina al Ahmadi,Location
+1572,Mina al Fahal,Location
+1573,Mina Rashid,Location
+1574,Mina Saqr,Location
+1575,Mina Saud,Location
+1576,Mina Sulman,Location
+1577,Minamata,Location
+1578,Minatitlan,Location
+1579,Mindelo,Location
+1580,Miragoane,Location
+1581,Miramar,Location
+1582,Miri,Location
+1583,Mishima-Kawanoe,Location
+1584,Misool Terminal,Location
+1585,Mistley,Location
+1586,Misumi,Location
+1587,Misurata,Location
+1588,Mitajiri,Location
+1589,Mitsukoshima,Location
+1590,Miyako,Location
+1591,Miyazu,Location
+1592,Mizushima,Location
+1593,Mo i Rana,Location
+1594,Moanda Terminal,Location
+1595,Mobile,Location
+1596,Moerdijk,Location
+1597,Mogadishu,Location
+1598,Mohammedia,Location
+1599,Moji,Location
+1600,Mokha,Location
+1601,Mokpo,Location
+1602,Molde,Location
+1603,Molfetta,Location
+1604,Mollendo,Location
+1605,Mombasa,Location
+1606,Monbetsu,Location
+1607,Monfalcone,Location
+1608,Mongla,Location
+1609,Mongstad,Location
+1610,Moni Anchorage,Location
+1611,Monopoli,Location
+1612,Monroe,Location
+1613,Monrovia,Location
+1614,Mont Louis,Location
+1615,Monte Carlo,Location
+1616,Montego Bay,Location
+1617,Montevideo,Location
+1618,Montoir,Location
+1619,Montreal,Location
+1620,Montrose,Location
+1621,Morehead City,Location
+1622,Morgan City,Location
+1623,Mormugao,Location
+1624,Moroni,Location
+1625,Morro Redondo,Location
+1626,Mosjoen,Location
+1627,Moss,Location
+1628,Mossel Bay,Location
+1629,Mostaganem,Location
+1630,Mostyn,Location
+1631,Motril,Location
+1632,Moudi Terminal,Location
+1633,Mount Vernon,Location
+1634,Mourilyan,Location
+1635,Mtwara,Location
+1636,Muara Port,Location
+1637,Mubarek Terminal,Location
+1638,Mubarras Terminal,Location
+1639,Mudanya,Location
+1640,Mukalla,Location
+1641,Mukho,Location
+1642,Mulgrave,Location
+1643,Mumbai,Location
+1644,Mundra,Location
+1645,Munguba,Location
+1646,Murmansk,Location
+1647,Muroran,Location
+1648,Muskogee,Location
+1649,Mustola,Location
+1650,Mutineer Terminal,Location
+1651,Mutsamudu,Location
+1652,My Thoi,Location
+1653,Mykonos,Location
+1654,Mytilene,Location
+1655,Naantali,Location
+1656,Nacala,Location
+1657,Nador,Location
+1658,Naestved,Location
+1659,Nagapattinam,Location
+1660,Nagasaki,Location
+1661,Nagoya,Location
+1662,Naha,Location
+1663,Nakhodka,Location
+1664,Nakskov,Location
+1665,Namibe,Location
+1666,Namikata,Location
+1667,Nampo,Location
+1668,Namsos,Location
+1669,Nanaimo,Location
+1670,Nanao,Location
+1671,Nanchang,Location
+1672,Nanchital,Location
+1673,Nanhai,Location
+1674,Nanhui,Location
+1675,Nanjing,Location
+1676,Nanortalik,Location
 1677,Nansha,Location
-1678,Nantes,Location
-1679,Nantong,Location
-1680,Naoetsu,Location
-1681,Naoshima,Location
-1682,Napier,Location
-1683,Naples,Location
-1684,Narsaq,Location
-1685,Narsarsuaq,Location
-1686,Narvik,Location
-1687,Naryan Mar,Location
-1688,Nassau,Location
-1689,Natal,Location
-1690,Nauplia,Location
-1691,Navegantes,Location
-1692,Navlakhi,Location
-1693,Nawiliwili,Location
-1694,Nea Moudhania,Location
-1695,Neap House,Location
-1696,Neath,Location
-1697,Necochea,Location
-1698,Nelson,Location
-1699,Nemrut Bay,Location
-1700,Neskaupstadur,Location
-1701,Neuss/Dusseldorf,Location
-1702,Nevelsk,Location
-1703,New Amsterdam,Location
-1704,New Bedford,Location
-1705,New Haven,Location
-1706,New Holland,Location
-1707,New London,Location
-1708,New Mangalore,Location
-1709,New Orleans,Location
-1710,New Plymouth,Location
-1711,New Ross,Location
-1712,New Tuticorin,Location
-1713,New York,Location
-1714,Newburgh,Location
-1715,Newcastle,Location
+1678,Nansha,Location
+1679,Nantes,Location
+1680,Nantong,Location
+1681,Naoetsu,Location
+1682,Naoshima,Location
+1683,Napier,Location
+1684,Naples,Location
+1685,Narsaq,Location
+1686,Narsarsuaq,Location
+1687,Narvik,Location
+1688,Naryan Mar,Location
+1689,Nassau,Location
+1690,Natal,Location
+1691,Nauplia,Location
+1692,Navegantes,Location
+1693,Navlakhi,Location
+1694,Nawiliwili,Location
+1695,Nea Moudhania,Location
+1696,Neap House,Location
+1697,Neath,Location
+1698,Necochea,Location
+1699,Nelson,Location
+1700,Nemrut Bay,Location
+1701,Neskaupstadur,Location
+1702,Neuss/Dusseldorf,Location
+1703,Nevelsk,Location
+1704,New Amsterdam,Location
+1705,New Bedford,Location
+1706,New Haven,Location
+1707,New Holland,Location
+1708,New London,Location
+1709,New Mangalore,Location
+1710,New Orleans,Location
+1711,New Plymouth,Location
+1712,New Ross,Location
+1713,New Tuticorin,Location
+1714,New York,Location
+1715,Newburgh,Location
 1716,Newcastle,Location
-1717,Newhaven,Location
-1718,Newlyn,Location
-1719,Newport,Location
-1720,Newport (Gwent),Location
-1721,Newport (Isle of Wight),Location
-1722,Nexo,Location
-1723,Nganhurra Terminal,Location
-1724,Nghe Tinh,Location
-1725,Ngqura,Location
-1726,Nha Be,Location
-1727,Nha Trang,Location
-1728,Nicaro,Location
-1729,Nice,Location
-1730,Nieuw Nickerie,Location
-1731,Nieuwpoort,Location
-1732,Nigg Oil Terminal,Location
-1733,Niigata,Location
-1734,Niigata-Higashi,Location
-1735,Niihama,Location
-1736,Nijmegen,Location
-1737,Nikiski,Location
-1738,Nikolayev,Location
-1739,Nikolayevsk,Location
-1740,Ningbo,Location
-1741,Nishtun,Location
-1742,Niteroi,Location
-1743,Nome,Location
-1744,Nordenham,Location
-1745,Norfolk Island,Location
-1746,Noro,Location
-1747,Norrkoping,Location
-1748,Norrsundet,Location
-1749,North Killingholme,Location
-1750,Northeast Gateway Terminal,Location
-1751,Northport,Location
-1752,Norwich,Location
-1753,Noshiro,Location
-1754,Nouadhibou,Location
-1755,Nouakchott,Location
-1756,Noumea,Location
-1757,Novi Sad,Location
-1758,Novorossiysk,Location
-1759,Now Shahr,Location
+1717,Newcastle,Location
+1718,Newhaven,Location
+1719,Newlyn,Location
+1720,Newport,Location
+1721,Newport (Gwent),Location
+1722,Newport (Isle of Wight),Location
+1723,Nexo,Location
+1724,Nganhurra Terminal,Location
+1725,Nghe Tinh,Location
+1726,Ngqura,Location
+1727,Nha Be,Location
+1728,Nha Trang,Location
+1729,Nicaro,Location
+1730,Nice,Location
+1731,Nieuw Nickerie,Location
+1732,Nieuwpoort,Location
+1733,Nigg Oil Terminal,Location
+1734,Niigata,Location
+1735,Niigata-Higashi,Location
+1736,Niihama,Location
+1737,Nijmegen,Location
+1738,Nikiski,Location
+1739,Nikolayev,Location
+1740,Nikolayevsk,Location
+1741,Ningbo,Location
+1742,Nishtun,Location
+1743,Niteroi,Location
+1744,Nome,Location
+1745,Nordenham,Location
+1746,Norfolk Island,Location
+1747,Noro,Location
+1748,Norrkoping,Location
+1749,Norrsundet,Location
+1750,North Killingholme,Location
+1751,Northeast Gateway Terminal,Location
+1752,Northport,Location
+1753,Norwich,Location
+1754,Noshiro,Location
+1755,Nouadhibou,Location
+1756,Nouakchott,Location
+1757,Noumea,Location
+1758,Novi Sad,Location
+1759,Novorossiysk,Location
 1760,Now Shahr,Location
-1761,Nueva Gerona,Location
-1762,Nueva Palmira,Location
-1763,Nuevitas,Location
-1764,Nuku'alofa,Location
-1765,Numazu,Location
-1766,Nuuk,Location
-1767,Nuweiba,Location
-1768,Nyborg,Location
-1769,Nykobing (Falster),Location
-1770,Nykobing (Mors),Location
-1771,Nykoping,Location
-1772,Nynashamn,Location
-1773,Oakham Ness,Location
-1774,Oakland,Location
-1775,Oaxen,Location
-1776,Oban,Location
-1777,Ocho Rios,Location
-1778,Odda,Location
-1779,Odense,Location
-1780,Odessa,Location
-1781,Odudu Terminal,Location
-1782,Ofunato,Location
-1783,Ogdensburg,Location
-1784,Oguendjo Terminal,Location
-1785,Oita,Location
-1786,Okoro Terminal,Location
-1787,Okrika,Location
-1788,Oktyabrsk,Location
-1789,Okwori Terminal,Location
-1790,Olbia,Location
-1791,Oldenburg,Location
-1792,Olga,Location
-1793,Olympia,Location
-1794,Omaezaki,Location
-1795,Omisalj,Location
-1796,Onahama,Location
-1797,Onega,Location
-1798,Onehunga,Location
-1799,Onne,Location
-1800,Onoda,Location
-1801,Onomichi,Location
-1802,Ontonagon,Location
-1803,Opua,Location
-1804,Oran,Location
-1805,Orange,Location
-1806,Oranjestad,Location
-1807,Ordu,Location
-1808,Orehoved,Location
-1809,Oristano,Location
-1810,Orkanger,Location
-1811,Ornskoldsvik,Location
-1812,Oro Bay,Location
-1813,Ortona,Location
-1814,Osaka,Location
-1815,Oshawa,Location
-1816,Oskarshamn,Location
-1817,Oslo,Location
-1818,Ostend,Location
-1819,Oswego,Location
-1820,Otaru,Location
-1821,Otranto,Location
-1822,Otterbacken,Location
-1823,Oulu,Location
-1824,Owase,Location
-1825,Owen Sound,Location
-1826,Owendo,Location
-1827,Owensboro,Location
-1828,Oxelosund,Location
-1829,Oyong Terminal,Location
-1830,Ozamis,Location
-1831,Paamiut,Location
-1832,Pachi,Location
-1833,Padstow,Location
-1834,Paducah,Location
-1835,Pagbilao,Location
-1836,Pago Pago,Location
-1837,Paimboeuf,Location
-1838,Paimpol,Location
-1839,Paita,Location
-1840,Palamos,Location
-1841,Palanca Terminal,Location
-1842,Palembang,Location
-1843,Palenque Terminal,Location
-1844,Palermo,Location
-1845,Palm Beach,Location
-1846,Palma,Location
-1847,Palua,Location
-1848,Panaji,Location
-1849,Panama City,Location
-1850,Panarukan,Location
-1851,Pancevo,Location
-1852,Pangkalan Susu,Location
-1853,Pangkalbalam,Location
-1854,Panjang,Location
-1855,Pantoloan,Location
-1856,Panyu Terminal,Location
-1857,Papeete,Location
-1858,Papenburg,Location
-1859,Paphos,Location
-1860,Par,Location
-1861,Paradero,Location
-1862,Paradip,Location
-1863,Parainen,Location
-1864,Paramaribo,Location
-1865,Paranagua,Location
-1866,Paranam,Location
-1867,Pare Pare,Location
-1868,Paris,Location
-1869,Parnu,Location
-1870,Parry Sound,Location
-1871,Partington,Location
-1872,Pasajes,Location
-1873,Pascagoula,Location
-1874,Pasco,Location
-1875,Pasir Gudang,Location
-1876,Passau,Location
-1877,Pataholm,Location
-1878,Pateniemi,Location
-1879,Pathein,Location
-1880,Patmos,Location
-1881,Patras,Location
-1882,Pauillac,Location
+1761,Now Shahr,Location
+1762,Nueva Gerona,Location
+1763,Nueva Palmira,Location
+1764,Nuevitas,Location
+1765,Nuku'alofa,Location
+1766,Numazu,Location
+1767,Nuuk,Location
+1768,Nuweiba,Location
+1769,Nyborg,Location
+1770,Nykobing (Falster),Location
+1771,Nykobing (Mors),Location
+1772,Nykoping,Location
+1773,Nynashamn,Location
+1774,Oakham Ness,Location
+1775,Oakland,Location
+1776,Oaxen,Location
+1777,Oban,Location
+1778,Ocho Rios,Location
+1779,Odda,Location
+1780,Odense,Location
+1781,Odessa,Location
+1782,Odudu Terminal,Location
+1783,Ofunato,Location
+1784,Ogdensburg,Location
+1785,Oguendjo Terminal,Location
+1786,Oita,Location
+1787,Okoro Terminal,Location
+1788,Okrika,Location
+1789,Oktyabrsk,Location
+1790,Okwori Terminal,Location
+1791,Olbia,Location
+1792,Oldenburg,Location
+1793,Olga,Location
+1794,Olympia,Location
+1795,Omaezaki,Location
+1796,Omisalj,Location
+1797,Onahama,Location
+1798,Onega,Location
+1799,Onehunga,Location
+1800,Onne,Location
+1801,Onoda,Location
+1802,Onomichi,Location
+1803,Ontonagon,Location
+1804,Opua,Location
+1805,Oran,Location
+1806,Orange,Location
+1807,Oranjestad,Location
+1808,Ordu,Location
+1809,Orehoved,Location
+1810,Oristano,Location
+1811,Orkanger,Location
+1812,Ornskoldsvik,Location
+1813,Oro Bay,Location
+1814,Ortona,Location
+1815,Osaka,Location
+1816,Oshawa,Location
+1817,Oskarshamn,Location
+1818,Oslo,Location
+1819,Ostend,Location
+1820,Oswego,Location
+1821,Otaru,Location
+1822,Otranto,Location
+1823,Otterbacken,Location
+1824,Oulu,Location
+1825,Owase,Location
+1826,Owen Sound,Location
+1827,Owendo,Location
+1828,Owensboro,Location
+1829,Oxelosund,Location
+1830,Oyong Terminal,Location
+1831,Ozamis,Location
+1832,Paamiut,Location
+1833,Pachi,Location
+1834,Padstow,Location
+1835,Paducah,Location
+1836,Pagbilao,Location
+1837,Pago Pago,Location
+1838,Paimboeuf,Location
+1839,Paimpol,Location
+1840,Paita,Location
+1841,Palamos,Location
+1842,Palanca Terminal,Location
+1843,Palembang,Location
+1844,Palenque Terminal,Location
+1845,Palermo,Location
+1846,Palm Beach,Location
+1847,Palma,Location
+1848,Palua,Location
+1849,Panaji,Location
+1850,Panama City,Location
+1851,Panarukan,Location
+1852,Pancevo,Location
+1853,Pangkalan Susu,Location
+1854,Pangkalbalam,Location
+1855,Panjang,Location
+1856,Pantoloan,Location
+1857,Panyu Terminal,Location
+1858,Papeete,Location
+1859,Papenburg,Location
+1860,Paphos,Location
+1861,Par,Location
+1862,Paradero,Location
+1863,Paradip,Location
+1864,Parainen,Location
+1865,Paramaribo,Location
+1866,Paranagua,Location
+1867,Paranam,Location
+1868,Pare Pare,Location
+1869,Paris,Location
+1870,Parnu,Location
+1871,Parry Sound,Location
+1872,Partington,Location
+1873,Pasajes,Location
+1874,Pascagoula,Location
+1875,Pasco,Location
+1876,Pasir Gudang,Location
+1877,Passau,Location
+1878,Pataholm,Location
+1879,Pateniemi,Location
+1880,Pathein,Location
+1881,Patmos,Location
+1882,Patras,Location
 1883,Pauillac,Location
-1884,Paysandu,Location
-1885,Pecem,Location
-1886,Pedregal,Location
-1887,Peel,Location
-1888,Pekanbaru,Location
-1889,Pelican,Location
-1890,Pelotas,Location
-1891,Pemangkat,Location
-1892,Pemba,Location
-1893,Penang,Location
-1894,Penglai,Location
-1895,Pennington Terminal,Location
-1896,Pennsauken,Location
-1897,Pensacola,Location
-1898,Penuelas Terminal,Location
-1899,Penzance,Location
-1900,Perth,Location
-1901,Pesaro,Location
-1902,Pescara,Location
-1903,Peterhead,Location
-1904,Petersburg,Location
-1905,Philadelphia,Location
-1906,Philipsburg,Location
-1907,Phnom Penh,Location
-1908,Phu My,Location
-1909,Phuket,Location
-1910,Pichilingue,Location
-1911,Picton,Location
-1912,Pictou,Location
-1913,Pietarsaari,Location
-1914,Pinghu,Location
-1915,Piombino,Location
-1916,Pipavav,Location
-1917,Piraeus,Location
-1918,Pittsburgh,Location
-1919,Pituffik,Location
-1920,Plaquemines,Location
-1921,Platong Terminal,Location
-1922,Ploce,Location
-1923,Plomin,Location
-1924,Plymouth,Location
+1884,Pauillac,Location
+1885,Paysandu,Location
+1886,Pecem,Location
+1887,Pedregal,Location
+1888,Peel,Location
+1889,Pekanbaru,Location
+1890,Pelican,Location
+1891,Pelotas,Location
+1892,Pemangkat,Location
+1893,Pemba,Location
+1894,Penang,Location
+1895,Penglai,Location
+1896,Pennington Terminal,Location
+1897,Pennsauken,Location
+1898,Pensacola,Location
+1899,Penuelas Terminal,Location
+1900,Penzance,Location
+1901,Perth,Location
+1902,Pesaro,Location
+1903,Pescara,Location
+1904,Peterhead,Location
+1905,Petersburg,Location
+1906,Philadelphia,Location
+1907,Philipsburg,Location
+1908,Phnom Penh,Location
+1909,Phu My,Location
+1910,Phuket,Location
+1911,Pichilingue,Location
+1912,Picton,Location
+1913,Pictou,Location
+1914,Pietarsaari,Location
+1915,Pinghu,Location
+1916,Piombino,Location
+1917,Pipavav,Location
+1918,Piraeus,Location
+1919,Pittsburgh,Location
+1920,Pituffik,Location
+1921,Plaquemines,Location
+1922,Platong Terminal,Location
+1923,Ploce,Location
+1924,Plomin,Location
 1925,Plymouth,Location
-1926,Podporozhye,Location
-1927,Pohang,Location
-1928,Pohnpei,Location
-1929,Point Comfort,Location
-1930,Point Fortin,Location
-1931,Point Lisas,Location
-1932,Point Tupper,Location
-1933,Pointe a Pierre,Location
-1934,Pointe a Pitre,Location
-1935,Pointe au Pic,Location
-1936,Pointe Noire,Location
-1937,Police,Location
-1938,Polloc,Location
-1939,Polvo Terminal,Location
-1940,Ponce,Location
-1941,Ponta da Madeira,Location
+1926,Plymouth,Location
+1927,Podporozhye,Location
+1928,Pohang,Location
+1929,Pohnpei,Location
+1930,Point Comfort,Location
+1931,Point Fortin,Location
+1932,Point Lisas,Location
+1933,Point Tupper,Location
+1934,Pointe a Pierre,Location
+1935,Pointe a Pitre,Location
+1936,Pointe au Pic,Location
+1937,Pointe Noire,Location
+1938,Police,Location
+1939,Polloc,Location
+1940,Polvo Terminal,Location
+1941,Ponce,Location
 1942,Ponta da Madeira,Location
-1943,Ponta Delgada,Location
-1944,Ponta do Ubu,Location
-1945,Ponta Dobela,Location
-1946,Pontianak,Location
-1947,Poole,Location
-1948,Porbandar,Location
-1949,Poronaysk,Location
-1950,Porsgrunn,Location
-1951,Port Alberni,Location
-1952,Port Alfred,Location
-1953,Port Alice,Location
-1954,Port Allen,Location
-1955,Port Alma,Location
-1956,Port Alucroix,Location
-1957,Port Angeles,Location
-1958,Port Antonio,Location
-1959,Port Arthur,Location
-1960,Port Askaig,Location
-1961,Port au Prince,Location
-1962,Port Augusta,Location
-1963,Port aux Basques,Location
-1964,Port Blair,Location
-1965,Port Bonython,Location
-1966,Port Canaveral,Location
-1967,Port Cartier,Location
-1968,Port Chester,Location
-1969,Port Colborne,Location
-1970,Port de Bouc,Location
+1943,Ponta da Madeira,Location
+1944,Ponta Delgada,Location
+1945,Ponta do Ubu,Location
+1946,Ponta Dobela,Location
+1947,Pontianak,Location
+1948,Poole,Location
+1949,Porbandar,Location
+1950,Poronaysk,Location
+1951,Porsgrunn,Location
+1952,Port Alberni,Location
+1953,Port Alfred,Location
+1954,Port Alice,Location
+1955,Port Allen,Location
+1956,Port Alma,Location
+1957,Port Alucroix,Location
+1958,Port Angeles,Location
+1959,Port Antonio,Location
+1960,Port Arthur,Location
+1961,Port Askaig,Location
+1962,Port au Prince,Location
+1963,Port Augusta,Location
+1964,Port aux Basques,Location
+1965,Port Blair,Location
+1966,Port Bonython,Location
+1967,Port Canaveral,Location
+1968,Port Cartier,Location
+1969,Port Chester,Location
+1970,Port Colborne,Location
 1971,Port de Bouc,Location
-1972,Port Dickson,Location
-1973,Port Elizabeth,Location
-1974,Port Ellen,Location
-1975,Port Esquivel,Location
-1976,Port Everglades,Location
-1977,Port Fourchon,Location
-1978,Port Gentil,Location
-1979,Port Giles,Location
-1980,Port Harcourt,Location
-1981,Port Hardy,Location
-1982,Port Hawkesbury,Location
-1983,Port Hedland,Location
-1984,Port Hueneme,Location
-1985,Port Huron,Location
-1986,Port Irene,Location
-1987,Port Isabel,Location
-1988,Port Jefferson,Location
-1989,Port Kaiser,Location
-1990,Port Kembla,Location
-1991,Port Klang,Location
-1992,Port Latta,Location
-1993,Port Lincoln,Location
-1994,Port Louis,Location
-1995,Port Manatee,Location
-1996,Port Mellon,Location
-1997,Port Moresby,Location
-1998,Port Muhammad Bin Qasim,Location
-1999,Port Neches,Location
-2000,Port Nolloth,Location
-2001,Port of Spain,Location
-2002,Port Okha,Location
-2003,Port Penrhyn,Location
-2004,Port Pirie,Location
-2005,Port Rhoades,Location
-2006,Port Royal,Location
+1972,Port de Bouc,Location
+1973,Port Dickson,Location
+1974,Port Elizabeth,Location
+1975,Port Ellen,Location
+1976,Port Esquivel,Location
+1977,Port Everglades,Location
+1978,Port Fourchon,Location
+1979,Port Gentil,Location
+1980,Port Giles,Location
+1981,Port Harcourt,Location
+1982,Port Hardy,Location
+1983,Port Hawkesbury,Location
+1984,Port Hedland,Location
+1985,Port Hueneme,Location
+1986,Port Huron,Location
+1987,Port Irene,Location
+1988,Port Isabel,Location
+1989,Port Jefferson,Location
+1990,Port Kaiser,Location
+1991,Port Kembla,Location
+1992,Port Klang,Location
+1993,Port Latta,Location
+1994,Port Lincoln,Location
+1995,Port Louis,Location
+1996,Port Manatee,Location
+1997,Port Mellon,Location
+1998,Port Moresby,Location
+1999,Port Muhammad Bin Qasim,Location
+2000,Port Neches,Location
+2001,Port Nolloth,Location
+2002,Port of Spain,Location
+2003,Port Okha,Location
+2004,Port Penrhyn,Location
+2005,Port Pirie,Location
+2006,Port Rhoades,Location
 2007,Port Royal,Location
-2008,Port Said,Location
-2009,Port San Luis,Location
-2010,Port St. Joe,Location
-2011,Port St. Louis,Location
-2012,Port St. Mary,Location
-2013,Port Stanvac,Location
-2014,Port Sudan,Location
-2015,Port Sultan Qaboos,Location
-2016,Port Talbot,Location
-2017,Port Townsend,Location
-2018,Port Vendres,Location
-2019,Port Victoria,Location
-2020,Port Vila,Location
-2021,Port Walcott,Location
-2022,Port Weller,Location
-2023,Port Wentworth,Location
-2024,Portici,Location
-2025,Portimao,Location
-2026,Portland,Location
+2008,Port Royal,Location
+2009,Port Said,Location
+2010,Port San Luis,Location
+2011,Port St. Joe,Location
+2012,Port St. Louis,Location
+2013,Port St. Mary,Location
+2014,Port Stanvac,Location
+2015,Port Sudan,Location
+2016,Port Sultan Qaboos,Location
+2017,Port Talbot,Location
+2018,Port Townsend,Location
+2019,Port Vendres,Location
+2020,Port Victoria,Location
+2021,Port Vila,Location
+2022,Port Walcott,Location
+2023,Port Weller,Location
+2024,Port Wentworth,Location
+2025,Portici,Location
+2026,Portimao,Location
 2027,Portland,Location
-2028,Portland (Maine),Location
-2029,Portland (Oregon),Location
-2030,Porto Alegre,Location
-2031,Porto Amboim,Location
-2032,Porto Chibatao,Location
-2033,Porto Empedocle,Location
-2034,Porto Nogaro,Location
-2035,Porto Novo (CPV),Location
-2036,Porto Santo,Location
-2037,Porto Santo Stefano,Location
-2038,Porto Torres,Location
-2039,Porto Vecchio,Location
-2040,Porto Vesme,Location
-2041,Portocel,Location
-2042,Portoferraio,Location
-2043,Portree,Location
-2044,Portrush,Location
-2045,Portsmouth,Location
-2046,Portsmouth (New Hampshire),Location
-2047,Posyet,Location
-2048,Poti,Location
-2049,Powell River,Location
-2050,Pozos Colorados Terminal,Location
-2051,Pozzuoli,Location
-2052,Prachuap,Location
-2053,Praia,Location
-2054,Praia da Graciosa,Location
-2055,Praia da Vitoria,Location
-2056,Praia Mole,Location
-2057,Prescott,Location
-2058,Preveza,Location
-2059,Primorsk,Location
-2060,Prince Rupert,Location
-2061,Probolinggo,Location
-2062,Progreso,Location
-2063,Prointal,Location
-2064,Prony,Location
-2065,Propriano,Location
-2066,Providence,Location
-2067,Providenciales,Location
-2068,Puducherry,Location
-2069,Puerto Barrios,Location
-2070,Puerto Bayovar,Location
-2071,Puerto Bolivar,Location
+2028,Portland,Location
+2029,Portland (Maine),Location
+2030,Portland (Oregon),Location
+2031,Porto Alegre,Location
+2032,Porto Amboim,Location
+2033,Porto Chibatao,Location
+2034,Porto Empedocle,Location
+2035,Porto Nogaro,Location
+2036,Porto Novo (CPV),Location
+2037,Porto Santo,Location
+2038,Porto Santo Stefano,Location
+2039,Porto Torres,Location
+2040,Porto Vecchio,Location
+2041,Porto Vesme,Location
+2042,Portocel,Location
+2043,Portoferraio,Location
+2044,Portree,Location
+2045,Portrush,Location
+2046,Portsmouth,Location
+2047,Portsmouth (New Hampshire),Location
+2048,Posyet,Location
+2049,Poti,Location
+2050,Powell River,Location
+2051,Pozos Colorados Terminal,Location
+2052,Pozzuoli,Location
+2053,Prachuap,Location
+2054,Praia,Location
+2055,Praia da Graciosa,Location
+2056,Praia da Vitoria,Location
+2057,Praia Mole,Location
+2058,Prescott,Location
+2059,Preveza,Location
+2060,Primorsk,Location
+2061,Prince Rupert,Location
+2062,Probolinggo,Location
+2063,Progreso,Location
+2064,Prointal,Location
+2065,Prony,Location
+2066,Propriano,Location
+2067,Providence,Location
+2068,Providenciales,Location
+2069,Puducherry,Location
+2070,Puerto Barrios,Location
+2071,Puerto Bayovar,Location
 2072,Puerto Bolivar,Location
-2073,Puerto Cabello,Location
-2074,Puerto Cabezas,Location
-2075,Puerto Castilla,Location
-2076,Puerto Chiapas,Location
-2077,Puerto Cortes,Location
-2078,Puerto Costa Maya,Location
-2079,Puerto de Hierro,Location
-2080,Puerto de Santa Maria,Location
-2081,Puerto del Rosario,Location
-2082,Puerto Deseado,Location
-2083,Puerto Jose,Location
-2084,Puerto la Cruz,Location
-2085,Puerto Limon,Location
-2086,Puerto Madryn,Location
-2087,Puerto Miranda,Location
-2088,Puerto Montt,Location
-2089,Puerto Natales,Location
-2090,Puerto Ordaz,Location
-2091,Puerto Padre,Location
-2092,Puerto Percy,Location
+2073,Puerto Bolivar,Location
+2074,Puerto Cabello,Location
+2075,Puerto Cabezas,Location
+2076,Puerto Castilla,Location
+2077,Puerto Chiapas,Location
+2078,Puerto Cortes,Location
+2079,Puerto Costa Maya,Location
+2080,Puerto de Hierro,Location
+2081,Puerto de Santa Maria,Location
+2082,Puerto del Rosario,Location
+2083,Puerto Deseado,Location
+2084,Puerto Jose,Location
+2085,Puerto la Cruz,Location
+2086,Puerto Limon,Location
+2087,Puerto Madryn,Location
+2088,Puerto Miranda,Location
+2089,Puerto Montt,Location
+2090,Puerto Natales,Location
+2091,Puerto Ordaz,Location
+2092,Puerto Padre,Location
 2093,Puerto Percy,Location
-2094,Puerto Plata,Location
-2095,Puerto Princesa,Location
-2096,Puerto Quetzal,Location
-2097,Puerto Sandino,Location
-2098,Puerto Vallarta,Location
-2099,Puerto Ventanas,Location
-2100,Puerto Viejo de Azua,Location
-2101,Puerto Villeta,Location
-2102,Puerto Williams,Location
-2103,Puerto Zuniga,Location
-2104,Puffin Terminal,Location
-2105,Puhos,Location
-2106,Pula,Location
-2107,Pulang Pisau,Location
-2108,Pulau Bukom,Location
+2094,Puerto Percy,Location
+2095,Puerto Plata,Location
+2096,Puerto Princesa,Location
+2097,Puerto Quetzal,Location
+2098,Puerto Sandino,Location
+2099,Puerto Vallarta,Location
+2100,Puerto Ventanas,Location
+2101,Puerto Viejo de Azua,Location
+2102,Puerto Villeta,Location
+2103,Puerto Williams,Location
+2104,Puerto Zuniga,Location
+2105,Puffin Terminal,Location
+2106,Puhos,Location
+2107,Pula,Location
+2108,Pulang Pisau,Location
 2109,Pulau Bukom,Location
-2110,Pulau Bunyu,Location
-2111,Pulau Langkawi,Location
-2112,Pulau Sambu,Location
-2113,Pulupandan,Location
-2114,Punta Arenas,Location
-2115,Punta Cardon,Location
-2116,Punta Colorada,Location
-2117,Punta Cuchillo,Location
-2118,Punta Europa Terminal,Location
-2119,Punta Lobitos,Location
-2120,Punta Palmas,Location
-2121,Punta Piedras,Location
-2122,Punta Quilla,Location
-2123,Puntarenas,Location
-2124,Pyeongtaek,Location
-2125,Pylos,Location
-2126,Qaanaaq,Location
-2127,Qalhat Terminal,Location
-2128,Qaqortoq,Location
-2129,Qasigiannguit,Location
-2130,Qeqertarsuaq,Location
-2131,Qingdao,Location
+2110,Pulau Bukom,Location
+2111,Pulau Bunyu,Location
+2112,Pulau Langkawi,Location
+2113,Pulau Sambu,Location
+2114,Pulupandan,Location
+2115,Punta Arenas,Location
+2116,Punta Cardon,Location
+2117,Punta Colorada,Location
+2118,Punta Cuchillo,Location
+2119,Punta Europa Terminal,Location
+2120,Punta Lobitos,Location
+2121,Punta Palmas,Location
+2122,Punta Piedras,Location
+2123,Punta Quilla,Location
+2124,Puntarenas,Location
+2125,Pyeongtaek,Location
+2126,Pylos,Location
+2127,Qaanaaq,Location
+2128,Qalhat Terminal,Location
+2129,Qaqortoq,Location
+2130,Qasigiannguit,Location
+2131,Qeqertarsuaq,Location
 2132,Qingdao,Location
-2133,Qinglan,Location
-2134,Qinhuangdao,Location
-2135,Qinzhou,Location
-2136,Qua Iboe Terminal,Location
-2137,Quanzhou,Location
-2138,Quebec,Location
-2139,Queenborough,Location
-2140,Quelimane,Location
-2141,Qui Nhon,Location
-2142,Quimper,Location
-2143,Quintero,Location
-2144,Raahe,Location
-2145,Rabaul,Location
-2146,Rabigh,Location
-2147,Rades,Location
-2148,Ramallo,Location
-2149,Ramsey,Location
-2150,Ramsgate,Location
-2151,Randers,Location
-2152,Ranong,Location
-2153,Rapid Bay,Location
-2154,Ras al Khafji,Location
-2155,Ras al Mishab,Location
-2156,Ras Bahregan Terminal,Location
-2157,Ras Budran Terminal,Location
-2158,Ras Gharib,Location
-2159,Ras Isa Terminal,Location
-2160,Ras Laffan,Location
-2161,Ras Lanuf,Location
-2162,Ras Shukheir Terminal,Location
-2163,Ras Sudr Terminal,Location
-2164,Ras Tanura,Location
-2165,Rasa,Location
-2166,Rasco Harbour,Location
-2167,Ratnagiri,Location
-2168,Rau Qua,Location
+2133,Qingdao,Location
+2134,Qinglan,Location
+2135,Qinhuangdao,Location
+2136,Qinzhou,Location
+2137,Qua Iboe Terminal,Location
+2138,Quanzhou,Location
+2139,Quebec,Location
+2140,Queenborough,Location
+2141,Quelimane,Location
+2142,Qui Nhon,Location
+2143,Quimper,Location
+2144,Quintero,Location
+2145,Raahe,Location
+2146,Rabaul,Location
+2147,Rabigh,Location
+2148,Rades,Location
+2149,Ramallo,Location
+2150,Ramsey,Location
+2151,Ramsgate,Location
+2152,Randers,Location
+2153,Ranong,Location
+2154,Rapid Bay,Location
+2155,Ras al Khafji,Location
+2156,Ras al Mishab,Location
+2157,Ras Bahregan Terminal,Location
+2158,Ras Budran Terminal,Location
+2159,Ras Gharib,Location
+2160,Ras Isa Terminal,Location
+2161,Ras Laffan,Location
+2162,Ras Lanuf,Location
+2163,Ras Shukheir Terminal,Location
+2164,Ras Sudr Terminal,Location
+2165,Ras Tanura,Location
+2166,Rasa,Location
+2167,Rasco Harbour,Location
+2168,Ratnagiri,Location
 2169,Rau Qua,Location
-2170,Rauma,Location
-2171,Ravenna,Location
-2172,Rayong,Location
-2173,Recife,Location
-2174,Red Dog,Location
-2175,Redwood City,Location
-2176,Regensburg,Location
-2177,Reggio di Calabria,Location
-2178,Rendsburg,Location
-2179,Reni,Location
-2180,Rethimnon,Location
-2181,Reunion,Location
-2182,Revithousa Terminal,Location
-2183,Reykjavik,Location
-2184,Rhodes,Location
-2185,Ribadeo,Location
-2186,Richards Bay,Location
-2187,Richborough,Location
-2188,Richmond (California),Location
-2189,Richmond (Virginia),Location
-2190,Ridham Dock,Location
-2191,Riga,Location
-2192,Rijeka,Location
-2193,Rimouski,Location
-2194,Rio Bueno,Location
-2195,Rio Cullen Terminal,Location
-2196,Rio de Janeiro,Location
-2197,Rio Gallegos,Location
-2198,Rio Grande,Location
+2170,Rau Qua,Location
+2171,Rauma,Location
+2172,Ravenna,Location
+2173,Rayong,Location
+2174,Recife,Location
+2175,Red Dog,Location
+2176,Redwood City,Location
+2177,Regensburg,Location
+2178,Reggio di Calabria,Location
+2179,Rendsburg,Location
+2180,Reni,Location
+2181,Rethimnon,Location
+2182,Reunion,Location
+2183,Revithousa Terminal,Location
+2184,Reykjavik,Location
+2185,Rhodes,Location
+2186,Ribadeo,Location
+2187,Richards Bay,Location
+2188,Richborough,Location
+2189,Richmond (California),Location
+2190,Richmond (Virginia),Location
+2191,Ridham Dock,Location
+2192,Riga,Location
+2193,Rijeka,Location
+2194,Rimouski,Location
+2195,Rio Bueno,Location
+2196,Rio Cullen Terminal,Location
+2197,Rio de Janeiro,Location
+2198,Rio Gallegos,Location
 2199,Rio Grande,Location
-2200,Rio Haina,Location
-2201,Risor,Location
-2202,Ristiina,Location
-2203,Riverhead,Location
-2204,Rize,Location
-2205,Rizhao,Location
-2206,Rochefort,Location
-2207,Rochester,Location
-2208,Rocky Point,Location
-2209,Rodbyhavn,Location
-2210,Romano Port,Location
-2211,Rongqi,Location
+2200,Rio Grande,Location
+2201,Rio Haina,Location
+2202,Risor,Location
+2203,Ristiina,Location
+2204,Riverhead,Location
+2205,Rize,Location
+2206,Rizhao,Location
+2207,Rochefort,Location
+2208,Rochester,Location
+2209,Rocky Point,Location
+2210,Rodbyhavn,Location
+2211,Romano Port,Location
 2212,Rongqi,Location
-2213,Ronne,Location
-2214,Roomassaare,Location
-2215,Rosario,Location
-2216,Rosarito Terminal,Location
-2217,Rosas,Location
-2218,Roscoff,Location
-2219,Roseau,Location
-2220,Rosedale,Location
-2221,Rosslare,Location
-2222,Rostock,Location
-2223,Rostov,Location
-2224,Rosyth,Location
-2225,Rothesay,Location
-2226,Rotterdam,Location
-2227,Rouen,Location
-2228,Rovinj,Location
-2229,Rudkobing,Location
-2230,Rumoi,Location
-2231,Runavik,Location
-2232,Runcorn,Location
-2233,Rupert Inlet,Location
-2234,Ruwais,Location
-2235,Rye,Location
-2236,Sabang,Location
-2237,Sabine,Location
-2238,Sables d'Olonne,Location
-2239,Sacramento,Location
-2240,Safaga,Location
-2241,Safi,Location
-2242,Saganoseki,Location
-2243,Sagunto,Location
-2244,Saiki,Location
-2245,Saint John,Location
-2246,Saipan Island,Location
-2247,Saiqi,Location
-2248,Sakai,Location
-2249,Sakaide,Location
-2250,Sakaiminato,Location
-2251,Sakata,Location
-2252,Salacgriva,Location
-2253,Saladin Terminal,Location
-2254,Salalah,Location
-2255,Salaverry,Location
-2256,Salaya,Location
-2257,Saldanha Bay,Location
-2258,Saleef,Location
-2259,Salem (Massachusetts),Location
-2260,Salerno,Location
-2261,Salina Cruz,Location
-2262,Salineiro Terminal,Location
-2263,Salt End,Location
-2264,Salvador,Location
-2265,Samarinda,Location
-2266,Sambas,Location
-2267,Samchok,Location
-2268,Samos,Location
-2269,Sampit,Location
-2270,Samsun,Location
-2271,San Andres,Location
-2272,San Antonio,Location
+2213,Rongqi,Location
+2214,Ronne,Location
+2215,Roomassaare,Location
+2216,Rosario,Location
+2217,Rosarito Terminal,Location
+2218,Rosas,Location
+2219,Roscoff,Location
+2220,Roseau,Location
+2221,Rosedale,Location
+2222,Rosslare,Location
+2223,Rostock,Location
+2224,Rostov,Location
+2225,Rosyth,Location
+2226,Rothesay,Location
+2227,Rotterdam,Location
+2228,Rouen,Location
+2229,Rovinj,Location
+2230,Rudkobing,Location
+2231,Rumoi,Location
+2232,Runavik,Location
+2233,Runcorn,Location
+2234,Rupert Inlet,Location
+2235,Ruwais,Location
+2236,Rye,Location
+2237,Sabang,Location
+2238,Sabine,Location
+2239,Sables d'Olonne,Location
+2240,Sacramento,Location
+2241,Safaga,Location
+2242,Safi,Location
+2243,Saganoseki,Location
+2244,Sagunto,Location
+2245,Saiki,Location
+2246,Saint John,Location
+2247,Saipan Island,Location
+2248,Saiqi,Location
+2249,Sakai,Location
+2250,Sakaide,Location
+2251,Sakaiminato,Location
+2252,Sakata,Location
+2253,Salacgriva,Location
+2254,Saladin Terminal,Location
+2255,Salalah,Location
+2256,Salaverry,Location
+2257,Salaya,Location
+2258,Saldanha Bay,Location
+2259,Saleef,Location
+2260,Salem (Massachusetts),Location
+2261,Salerno,Location
+2262,Salina Cruz,Location
+2263,Salineiro Terminal,Location
+2264,Salt End,Location
+2265,Salvador,Location
+2266,Samarinda,Location
+2267,Sambas,Location
+2268,Samchok,Location
+2269,Samos,Location
+2270,Sampit,Location
+2271,Samsun,Location
+2272,San Andres,Location
 2273,San Antonio,Location
-2274,San Antonio Este,Location
-2275,San Benedetto del Tronto,Location
-2276,San Carlos,Location
-2277,San Carlos de la Rapita,Location
-2278,San Diego,Location
-2279,San Feliu de Guixols,Location
-2280,San Felix,Location
-2281,San Fernando,Location
-2282,San Francisco,Location
-2283,San Juan,Location
-2284,San Juan de la Costa,Location
-2285,San Juan del Sur,Location
-2286,San Julian,Location
-2287,San Lorenzo,Location
+2274,San Antonio,Location
+2275,San Antonio Este,Location
+2276,San Benedetto del Tronto,Location
+2277,San Carlos,Location
+2278,San Carlos de la Rapita,Location
+2279,San Diego,Location
+2280,San Feliu de Guixols,Location
+2281,San Felix,Location
+2282,San Fernando,Location
+2283,San Francisco,Location
+2284,San Juan,Location
+2285,San Juan de la Costa,Location
+2286,San Juan del Sur,Location
+2287,San Julian,Location
 2288,San Lorenzo,Location
-2289,San Marcos Island,Location
-2290,San Nicolas,Location
+2289,San Lorenzo,Location
+2290,San Marcos Island,Location
 2291,San Nicolas,Location
-2292,San Nicolas Bay,Location
-2293,San Pedro,Location
+2292,San Nicolas,Location
+2293,San Nicolas Bay,Location
 2294,San Pedro,Location
-2295,San Pedro de Macoris,Location
-2296,San Remo,Location
-2297,San Sebastian,Location
-2298,San Sebastian Terminal,Location
-2299,San Vicente,Location
-2300,Sanbing,Location
-2301,Sanbu,Location
-2302,Sanchez,Location
-2303,Sand Point,Location
-2304,Sandakan,Location
-2305,Sandefjord,Location
-2306,Sandnes,Location
-2307,Sandusky,Location
-2308,Sandwich,Location
-2309,Sangatta Terminal,Location
-2310,Sangi,Location
-2311,Sant' Antioco,Location
-2312,Santa Clara,Location
-2313,Santa Cruz (Luzon),Location
-2314,Santa Cruz (Marinduque),Location
-2315,Santa Cruz de la Palma,Location
-2316,Santa Cruz de Tenerife,Location
-2317,Santa Fe,Location
-2318,Santa Lucia,Location
-2319,Santa Marta,Location
-2320,Santa Panagia,Location
-2321,Santa Rosalia,Location
-2322,Santan Terminal,Location
-2323,Santander,Location
-2324,Santarem,Location
-2325,Santiago,Location
-2326,Santo,Location
-2327,Santo Domingo,Location
-2328,Santo Tomas de Castilla,Location
-2329,Santos,Location
-2330,Sanya,Location
-2331,Sao Francisco do Sul,Location
-2332,Sao Sebastiao,Location
-2333,Sao Tome,Location
-2334,Sapangar Bay,Location
-2335,Sapele,Location
-2336,Sarande,Location
-2337,Sarikei,Location
-2338,Sarnia,Location
-2339,Sarroch,Location
-2340,Sasebo,Location
-2341,Sassnitz,Location
-2342,Sattahip,Location
-2343,Sauda,Location
-2344,Sault Ste. Marie,Location
-2345,Savannah,Location
-2346,Savona,Location
-2347,Savonlinna,Location
-2348,Scalloway,Location
-2349,Scarborough,Location
+2295,San Pedro,Location
+2296,San Pedro de Macoris,Location
+2297,San Remo,Location
+2298,San Sebastian,Location
+2299,San Sebastian Terminal,Location
+2300,San Vicente,Location
+2301,Sanbing,Location
+2302,Sanbu,Location
+2303,Sanchez,Location
+2304,Sand Point,Location
+2305,Sandakan,Location
+2306,Sandefjord,Location
+2307,Sandnes,Location
+2308,Sandusky,Location
+2309,Sandwich,Location
+2310,Sangatta Terminal,Location
+2311,Sangi,Location
+2312,Sant' Antioco,Location
+2313,Santa Clara,Location
+2314,Santa Cruz (Luzon),Location
+2315,Santa Cruz (Marinduque),Location
+2316,Santa Cruz de la Palma,Location
+2317,Santa Cruz de Tenerife,Location
+2318,Santa Fe,Location
+2319,Santa Lucia,Location
+2320,Santa Marta,Location
+2321,Santa Panagia,Location
+2322,Santa Rosalia,Location
+2323,Santan Terminal,Location
+2324,Santander,Location
+2325,Santarem,Location
+2326,Santiago,Location
+2327,Santo,Location
+2328,Santo Domingo,Location
+2329,Santo Tomas de Castilla,Location
+2330,Santos,Location
+2331,Sanya,Location
+2332,Sao Francisco do Sul,Location
+2333,Sao Sebastiao,Location
+2334,Sao Tome,Location
+2335,Sapangar Bay,Location
+2336,Sapele,Location
+2337,Sarande,Location
+2338,Sarikei,Location
+2339,Sarnia,Location
+2340,Sarroch,Location
+2341,Sasebo,Location
+2342,Sassnitz,Location
+2343,Sattahip,Location
+2344,Sauda,Location
+2345,Sault Ste. Marie,Location
+2346,Savannah,Location
+2347,Savona,Location
+2348,Savonlinna,Location
+2349,Scalloway,Location
 2350,Scarborough,Location
-2351,Scheveningen,Location
-2352,Schiedam,Location
-2353,Scrabster,Location
-2354,Sea Eagle Terminal,Location
-2355,Seaham,Location
-2356,Searsport,Location
-2357,Seattle,Location
-2358,Selaata,Location
-2359,Selby,Location
-2360,Semangka Bay Terminal,Location
-2361,Semarang,Location
-2362,Sendai-Shiogama,Location
-2363,Senipah Terminal,Location
-2364,Sepetiba,Location
-2365,Seria Terminal,Location
-2366,Serpentina Terminal,Location
-2367,Sete,Location
-2368,Setubal,Location
-2369,Sevastopol,Location
-2370,Seven Islands,Location
-2371,Seville,Location
-2372,Seward,Location
-2373,Seydhisfjordur,Location
-2374,Sfax,Location
-2375,Shakhtersk,Location
-2376,Shanghai,Location
-2377,Shantou,Location
-2378,Shanwei,Location
-2379,Sharjah,Location
-2380,Sharm el Sheikh,Location
-2381,Sharpness,Location
-2382,Sheerness,Location
-2383,Sheet Harbour,Location
-2384,Shekou,Location
-2385,Shell Haven,Location
-2386,Shengjin,Location
-2387,Shibushi,Location
-2388,Shidao,Location
-2389,Shikama,Location
+2351,Scarborough,Location
+2352,Scheveningen,Location
+2353,Schiedam,Location
+2354,Scrabster,Location
+2355,Sea Eagle Terminal,Location
+2356,Seaham,Location
+2357,Searsport,Location
+2358,Seattle,Location
+2359,Selaata,Location
+2360,Selby,Location
+2361,Semangka Bay Terminal,Location
+2362,Semarang,Location
+2363,Sendai-Shiogama,Location
+2364,Senipah Terminal,Location
+2365,Sepetiba,Location
+2366,Seria Terminal,Location
+2367,Serpentina Terminal,Location
+2368,Sete,Location
+2369,Setubal,Location
+2370,Sevastopol,Location
+2371,Seven Islands,Location
+2372,Seville,Location
+2373,Seward,Location
+2374,Seydhisfjordur,Location
+2375,Sfax,Location
+2376,Shakhtersk,Location
+2377,Shanghai,Location
+2378,Shantou,Location
+2379,Shanwei,Location
+2380,Sharjah,Location
+2381,Sharm el Sheikh,Location
+2382,Sharpness,Location
+2383,Sheerness,Location
+2384,Sheet Harbour,Location
+2385,Shekou,Location
+2386,Shell Haven,Location
+2387,Shengjin,Location
+2388,Shibushi,Location
+2389,Shidao,Location
 2390,Shikama,Location
-2391,Shilong,Location
-2392,Shimizu,Location
-2393,Shimonoseki,Location
-2394,Shingu,Location
-2395,Ship Harbour,Location
-2396,Shipu,Location
-2397,Shiqiao,Location
-2398,Shoreham,Location
-2399,Shreveport-Bossier,Location
-2400,Shuaiba,Location
-2401,Shuidong,Location
-2402,Shunde,Location
-2403,Siam Seaport,Location
-2404,Sibenik,Location
-2405,Sibolga,Location
-2406,Sibu,Location
-2407,Sidi Kerir Terminal,Location
-2408,Sidon,Location
-2409,Siglufjordur,Location
-2410,Sihanoukville,Location
-2411,Siilinjarvi,Location
-2412,Sikea,Location
-2413,Sikka,Location
-2414,Sillamae,Location
-2415,Silloth,Location
-2416,Simonstown,Location
-2417,Sines,Location
-2418,Singapore,Location
-2419,Singkawang,Location
-2420,Sinop,Location
-2421,Siracusa,Location
-2422,Sirri Island,Location
-2423,Sisimiut,Location
-2424,Sitka,Location
-2425,Sitra,Location
-2426,Sittwe,Location
-2427,Skadovsk,Location
-2428,Skaerbaek,Location
-2429,Skagen,Location
-2430,Skagway,Location
-2431,Skelleftea,Location
-2432,Skien,Location
-2433,Skikda,Location
-2434,Skogby,Location
-2435,Skoldvik,Location
-2436,Skua Terminal,Location
-2437,Skudeneshavn,Location
-2438,Skulte,Location
-2439,Skuru,Location
-2440,Skutskar,Location
-2441,Slagen,Location
-2442,Sligo,Location
-2443,Slite,Location
-2444,Smalkalden,Location
-2445,Smith's Bluff,Location
-2446,Sochi,Location
-2447,Soderhamn,Location
+2391,Shikama,Location
+2392,Shilong,Location
+2393,Shimizu,Location
+2394,Shimonoseki,Location
+2395,Shingu,Location
+2396,Ship Harbour,Location
+2397,Shipu,Location
+2398,Shiqiao,Location
+2399,Shoreham,Location
+2400,Shreveport-Bossier,Location
+2401,Shuaiba,Location
+2402,Shuidong,Location
+2403,Shunde,Location
+2404,Siam Seaport,Location
+2405,Sibenik,Location
+2406,Sibolga,Location
+2407,Sibu,Location
+2408,Sidi Kerir Terminal,Location
+2409,Sidon,Location
+2410,Siglufjordur,Location
+2411,Sihanoukville,Location
+2412,Siilinjarvi,Location
+2413,Sikea,Location
+2414,Sikka,Location
+2415,Sillamae,Location
+2416,Silloth,Location
+2417,Simonstown,Location
+2418,Sines,Location
+2419,Singapore,Location
+2420,Singkawang,Location
+2421,Sinop,Location
+2422,Siracusa,Location
+2423,Sirri Island,Location
+2424,Sisimiut,Location
+2425,Sitka,Location
+2426,Sitra,Location
+2427,Sittwe,Location
+2428,Skadovsk,Location
+2429,Skaerbaek,Location
+2430,Skagen,Location
+2431,Skagway,Location
+2432,Skelleftea,Location
+2433,Skien,Location
+2434,Skikda,Location
+2435,Skogby,Location
+2436,Skoldvik,Location
+2437,Skua Terminal,Location
+2438,Skudeneshavn,Location
+2439,Skulte,Location
+2440,Skuru,Location
+2441,Skutskar,Location
+2442,Slagen,Location
+2443,Sligo,Location
+2444,Slite,Location
+2445,Smalkalden,Location
+2446,Smith's Bluff,Location
+2447,Sochi,Location
 2448,Soderhamn,Location
-2449,Sodertalje,Location
-2450,Sohar,Location
-2451,Sokhna,Location
-2452,Sola,Location
-2453,Solvesborg,Location
-2454,Soma,Location
-2455,Sonderborg,Location
-2456,Songjiang,Location
-2457,Songjin,Location
-2458,Songkhla,Location
-2459,Songxia,Location
+2449,Soderhamn,Location
+2450,Sodertalje,Location
+2451,Sohar,Location
+2452,Sokhna,Location
+2453,Sola,Location
+2454,Solvesborg,Location
+2455,Soma,Location
+2456,Sonderborg,Location
+2457,Songjiang,Location
+2458,Songjin,Location
+2459,Songkhla,Location
 2460,Songxia,Location
-2461,Soraker,Location
+2461,Songxia,Location
 2462,Soraker,Location
-2463,Sorel,Location
-2464,Sorong,Location
-2465,Soroosh Terminal,Location
-2466,Sour,Location
-2467,Souris,Location
-2468,Sousse,Location
-2469,South Killingholme,Location
-2470,South Louisiana,Location
-2471,South Riding Point,Location
-2472,Southampton,Location
-2473,Sovetskaya Gavan,Location
-2474,Soyo,Location
-2475,Split,Location
-2476,Squamish,Location
-2477,Sriracha,Location
-2478,St. Andrews,Location
-2479,St. Bernard,Location
-2480,St. Eustatius,Location
-2481,St. George's,Location
+2463,Soraker,Location
+2464,Sorel,Location
+2465,Sorong,Location
+2466,Soroosh Terminal,Location
+2467,Sour,Location
+2468,Souris,Location
+2469,Sousse,Location
+2470,South Killingholme,Location
+2471,South Louisiana,Location
+2472,South Riding Point,Location
+2473,Southampton,Location
+2474,Sovetskaya Gavan,Location
+2475,Soyo,Location
+2476,Split,Location
+2477,Squamish,Location
+2478,Sriracha,Location
+2479,St. Andrews,Location
+2480,St. Bernard,Location
+2481,St. Eustatius,Location
 2482,St. George's,Location
-2483,St. Helier,Location
-2484,St. John,Location
-2485,St. John's,Location
+2483,St. George's,Location
+2484,St. Helier,Location
+2485,St. John,Location
 2486,St. John's,Location
-2487,St. Louis du Rhone,Location
-2488,St. Malo,Location
-2489,St. Michiel's Bay,Location
-2490,St. Nazaire,Location
-2491,St. Paul,Location
-2492,St. Peter Port,Location
-2493,St. Petersburg,Location
+2487,St. John's,Location
+2488,St. Louis du Rhone,Location
+2489,St. Malo,Location
+2490,St. Michiel's Bay,Location
+2491,St. Nazaire,Location
+2492,St. Paul,Location
+2493,St. Peter Port,Location
 2494,St. Petersburg,Location
-2495,St. Pierre,Location
-2496,St. Thomas,Location
-2497,Stag Terminal,Location
-2498,Stamford,Location
-2499,Stanley Harbour,Location
-2500,Stanlow,Location
-2501,Stavanger,Location
-2502,Steinkjer,Location
-2503,Stenungsund,Location
-2504,Stephenville,Location
-2505,Stevns Pier,Location
-2506,Stewart,Location
-2507,Stigsnaesvaerkets Havn,Location
-2508,Stockholm,Location
-2509,Stockton,Location
-2510,Stodhvarfjordur,Location
-2511,Stornoway,Location
-2512,Storugns,Location
-2513,Stralsund,Location
-2514,Stranraer,Location
-2515,Strasbourg,Location
-2516,Straumsvik,Location
-2517,Struer,Location
-2518,Stubbekobing,Location
-2519,Studstrup,Location
-2520,Sture,Location
-2521,Stylis,Location
-2522,Su Tu Den Terminal,Location
-2523,Suakin,Location
-2524,Suao,Location
-2525,Suape,Location
-2526,Subic Bay,Location
-2527,Suda Bay,Location
-2528,Suez,Location
-2529,Sukhumi,Location
-2530,Sulina,Location
-2531,Sullom Voe,Location
-2532,Sunderland,Location
-2533,Sundsvall,Location
-2534,Sungai Udang,Location
-2535,Sungei Merah,Location
-2536,Sungei Pakning,Location
-2537,Sunndalsora,Location
-2538,Supe,Location
-2539,Supsa Terminal,Location
-2540,Sur,Location
+2495,St. Petersburg,Location
+2496,St. Pierre,Location
+2497,St. Thomas,Location
+2498,Stag Terminal,Location
+2499,Stamford,Location
+2500,Stanley Harbour,Location
+2501,Stanlow,Location
+2502,Stavanger,Location
+2503,Steinkjer,Location
+2504,Stenungsund,Location
+2505,Stephenville,Location
+2506,Stevns Pier,Location
+2507,Stewart,Location
+2508,Stigsnaesvaerkets Havn,Location
+2509,Stockholm,Location
+2510,Stockton,Location
+2511,Stodhvarfjordur,Location
+2512,Stornoway,Location
+2513,Storugns,Location
+2514,Stralsund,Location
+2515,Stranraer,Location
+2516,Strasbourg,Location
+2517,Straumsvik,Location
+2518,Struer,Location
+2519,Stubbekobing,Location
+2520,Studstrup,Location
+2521,Sture,Location
+2522,Stylis,Location
+2523,Su Tu Den Terminal,Location
+2524,Suakin,Location
+2525,Suao,Location
+2526,Suape,Location
+2527,Subic Bay,Location
+2528,Suda Bay,Location
+2529,Suez,Location
+2530,Sukhumi,Location
+2531,Sulina,Location
+2532,Sullom Voe,Location
+2533,Sunderland,Location
+2534,Sundsvall,Location
+2535,Sungai Udang,Location
+2536,Sungei Merah,Location
+2537,Sungei Pakning,Location
+2538,Sunndalsora,Location
+2539,Supe,Location
+2540,Supsa Terminal,Location
 2541,Sur,Location
-2542,Surabaya,Location
-2543,Surigao,Location
-2544,Susaki,Location
-2545,Sutton Bridge,Location
-2546,Suva,Location
-2547,Svaneke,Location
-2548,Svelgen,Location
-2549,Svelvik,Location
-2550,Svendborg,Location
-2551,Svolvaer,Location
-2552,Swansea,Location
-2553,Swinoujscie,Location
-2554,Sydney,Location
+2542,Sur,Location
+2543,Surabaya,Location
+2544,Surigao,Location
+2545,Susaki,Location
+2546,Sutton Bridge,Location
+2547,Suva,Location
+2548,Svaneke,Location
+2549,Svelgen,Location
+2550,Svelvik,Location
+2551,Svendborg,Location
+2552,Svolvaer,Location
+2553,Swansea,Location
+2554,Swinoujscie,Location
 2555,Sydney,Location
-2556,Syros,Location
-2557,Szczecin,Location
-2558,Tabaco,Location
-2559,Tachibana,Location
-2560,Tacloban,Location
-2561,Tacoma,Location
-2562,Tadoussac,Location
-2563,Taganrog,Location
-2564,Tagbiliran,Location
-2565,Tagonoura,Location
-2566,Taharoa Terminal,Location
-2567,Taicang,Location
-2568,Taichung,Location
-2569,Taipei,Location
-2570,Taiping,Location
-2571,Taixing,Location
-2572,Taizhou,Location
-2573,Takamatsu,Location
-2574,Takoradi,Location
-2575,Takula Terminal,Location
-2576,Takuma,Location
-2577,Talamone,Location
-2578,Talara,Location
-2579,Talcahuano,Location
-2580,Talisman Terminal,Location
-2581,Tallinn,Location
-2582,Tammisaari,Location
-2583,Tampa,Location
-2584,Tampico,Location
-2585,Tan Thuan Dong,Location
-2586,Tanabe,Location
-2587,Tanamo,Location
-2588,Tandoc,Location
-2589,Tanga,Location
-2590,Tangier,Location
-2591,Tangier-Mediterranee,Location
-2592,Tangshan,Location
-2593,Tanjong Manis,Location
-2594,Tanjong Salirong,Location
-2595,Tanjung Bara,Location
-2596,Tanjung Langsat,Location
-2597,Tanjung Pandan,Location
-2598,Tanjung Pelepas,Location
-2599,Tanjung Pemancingan,Location
-2600,Tanjung Sekong,Location
-2601,Tanjung Uban,Location
-2602,Tanjung Wangi,Location
-2603,Tantawan Terminal,Location
-2604,Tapaktuan,Location
-2605,Tarakan,Location
-2606,Taranto,Location
-2607,Tarfaya,Location
-2608,Tarragona,Location
-2609,Tartous,Location
-2610,Tauranga,Location
-2611,Tawau,Location
-2612,Tees,Location
-2613,Tegal,Location
-2614,Teignmouth,Location
-2615,Tekirdag,Location
-2616,Tell City,Location
-2617,Teluk Bayur,Location
-2618,Teluk Nibung,Location
-2619,Tema,Location
-2620,Tembladora,Location
-2621,Temryuk,Location
-2622,Tenes,Location
-2623,Teraina,Location
-2624,Terneuzen,Location
-2625,Tetney Terminal,Location
-2626,Texas City,Location
-2627,Thalassery,Location
-2628,Thanh Hoa,Location
-2629,The Dalles,Location
-2630,Theodosia,Location
-2631,Thessaloniki,Location
-2632,Thevenard,Location
-2633,Thi Nai,Location
-2634,Thilawa,Location
+2556,Sydney,Location
+2557,Syros,Location
+2558,Szczecin,Location
+2559,Tabaco,Location
+2560,Tachibana,Location
+2561,Tacloban,Location
+2562,Tacoma,Location
+2563,Tadoussac,Location
+2564,Taganrog,Location
+2565,Tagbiliran,Location
+2566,Tagonoura,Location
+2567,Taharoa Terminal,Location
+2568,Taicang,Location
+2569,Taichung,Location
+2570,Taipei,Location
+2571,Taiping,Location
+2572,Taixing,Location
+2573,Taizhou,Location
+2574,Takamatsu,Location
+2575,Takoradi,Location
+2576,Takula Terminal,Location
+2577,Takuma,Location
+2578,Talamone,Location
+2579,Talara,Location
+2580,Talcahuano,Location
+2581,Talisman Terminal,Location
+2582,Tallinn,Location
+2583,Tammisaari,Location
+2584,Tampa,Location
+2585,Tampico,Location
+2586,Tan Thuan Dong,Location
+2587,Tanabe,Location
+2588,Tanamo,Location
+2589,Tandoc,Location
+2590,Tanga,Location
+2591,Tangier,Location
+2592,Tangier-Mediterranee,Location
+2593,Tangshan,Location
+2594,Tanjong Manis,Location
+2595,Tanjong Salirong,Location
+2596,Tanjung Bara,Location
+2597,Tanjung Langsat,Location
+2598,Tanjung Pandan,Location
+2599,Tanjung Pelepas,Location
+2600,Tanjung Pemancingan,Location
+2601,Tanjung Sekong,Location
+2602,Tanjung Uban,Location
+2603,Tanjung Wangi,Location
+2604,Tantawan Terminal,Location
+2605,Tapaktuan,Location
+2606,Tarakan,Location
+2607,Taranto,Location
+2608,Tarfaya,Location
+2609,Tarragona,Location
+2610,Tartous,Location
+2611,Tauranga,Location
+2612,Tawau,Location
+2613,Tees,Location
+2614,Tegal,Location
+2615,Teignmouth,Location
+2616,Tekirdag,Location
+2617,Tell City,Location
+2618,Teluk Bayur,Location
+2619,Teluk Nibung,Location
+2620,Tema,Location
+2621,Tembladora,Location
+2622,Temryuk,Location
+2623,Tenes,Location
+2624,Teraina,Location
+2625,Terneuzen,Location
+2626,Tetney Terminal,Location
+2627,Texas City,Location
+2628,Thalassery,Location
+2629,Thanh Hoa,Location
+2630,The Dalles,Location
+2631,Theodosia,Location
+2632,Thessaloniki,Location
+2633,Thevenard,Location
+2634,Thi Nai,Location
 2635,Thilawa,Location
-2636,Thisted,Location
-2637,Thorlakshofn,Location
-2638,Thorold,Location
-2639,Thorshofn,Location
-2640,Three Rivers,Location
-2641,Thunder Bay,Location
-2642,Thursday Island,Location
-2643,Tianjiazhen,Location
-2644,Tilbury,Location
-2645,Timaru,Location
-2646,Timbues,Location
-2647,Tin Can Island,Location
-2648,Tinian Island,Location
-2649,Tirebolu,Location
-2650,Toamasina,Location
-2651,Tobata,Location
-2652,Tobruk,Location
-2653,Tocopilla,Location
-2654,Tokachi,Location
-2655,Tokuyama,Location
-2656,Tokyo,Location
-2657,Tolagnaro,Location
-2658,Toledo,Location
-2659,Toliary,Location
-2660,Tolkkinen,Location
-2661,Tomakomai,Location
-2662,Tomioka,Location
-2663,Tongjiang,Location
-2664,Tongling,Location
-2665,Tonnay Charente,Location
-2666,Tonsberg,Location
-2667,Topolobampo,Location
-2668,Tornio,Location
-2669,Toronto,Location
-2670,Torre Annunziata,Location
-2671,Torrevieja,Location
-2672,Torshavn,Location
-2673,Tortola,Location
-2674,Totnes,Location
-2675,Toulon,Location
-2676,Townsville,Location
-2677,Toyohashi,Location
-2678,Trabzon,Location
-2679,Tramandai,Location
-2680,Trapani,Location
-2681,Treguier,Location
-2682,Trelleborg,Location
-2683,Trenton,Location
-2684,Trieste,Location
-2685,Trincomalee,Location
-2686,Tripoli,Location
+2636,Thilawa,Location
+2637,Thisted,Location
+2638,Thorlakshofn,Location
+2639,Thorold,Location
+2640,Thorshofn,Location
+2641,Three Rivers,Location
+2642,Thunder Bay,Location
+2643,Thursday Island,Location
+2644,Tianjiazhen,Location
+2645,Tilbury,Location
+2646,Timaru,Location
+2647,Timbues,Location
+2648,Tin Can Island,Location
+2649,Tinian Island,Location
+2650,Tirebolu,Location
+2651,Toamasina,Location
+2652,Tobata,Location
+2653,Tobruk,Location
+2654,Tocopilla,Location
+2655,Tokachi,Location
+2656,Tokuyama,Location
+2657,Tokyo,Location
+2658,Tolagnaro,Location
+2659,Toledo,Location
+2660,Toliary,Location
+2661,Tolkkinen,Location
+2662,Tomakomai,Location
+2663,Tomioka,Location
+2664,Tongjiang,Location
+2665,Tongling,Location
+2666,Tonnay Charente,Location
+2667,Tonsberg,Location
+2668,Topolobampo,Location
+2669,Tornio,Location
+2670,Toronto,Location
+2671,Torre Annunziata,Location
+2672,Torrevieja,Location
+2673,Torshavn,Location
+2674,Tortola,Location
+2675,Totnes,Location
+2676,Toulon,Location
+2677,Townsville,Location
+2678,Toyohashi,Location
+2679,Trabzon,Location
+2680,Tramandai,Location
+2681,Trapani,Location
+2682,Treguier,Location
+2683,Trelleborg,Location
+2684,Trenton,Location
+2685,Trieste,Location
+2686,Trincomalee,Location
 2687,Tripoli,Location
-2688,Trombetas,Location
-2689,Tromso,Location
-2690,Trondheim,Location
-2691,Troon,Location
-2692,Truro,Location
-2693,Tsukumi,Location
-2694,Tsuruga,Location
-2695,Tuapse,Location
-2696,Tuban,Location
-2697,Tubarao,Location
-2698,Tuktoyaktuk,Location
-2699,Tulagi,Location
-2700,Tulcea,Location
-2701,Tumaco,Location
-2702,Tunis,Location
-2703,Turbo,Location
-2704,Turkmenbashi,Location
-2705,Turku,Location
-2706,Tutunciftlik,Location
-2707,Tuxpan,Location
-2708,Tvoroyri,Location
-2709,Tyne,Location
-2710,Ube,Location
-2711,Uchiura,Location
-2712,Uddevalla,Location
-2713,Uglegorsk,Location
-2714,Ullapool,Location
-2715,Ulsan,Location
-2716,Umatilla,Location
-2717,Umea,Location
-2718,Umm al Qaiwain,Location
-2719,Umm Qasr,Location
-2720,Uno,Location
-2721,Upernavik,Location
-2722,Urangan,Location
-2723,Useless Loop,Location
-2724,Ushuaia,Location
-2725,Ust-Dunaysk,Location
-2726,Ust-Luga,Location
-2727,Ustka,Location
-2728,Utersen,Location
-2729,Uummannaq,Location
-2730,Uusikaupunki,Location
-2731,Vaasa,Location
-2732,Vacamonte,Location
-2733,Vada,Location
-2734,Vadinar Terminal,Location
-2735,Vadso,Location
-2736,Vagur,Location
-2737,Valdez,Location
-2738,Valencia,Location
-2739,Valentia,Location
-2740,Valletta,Location
-2741,Valleyfield,Location
-2742,Valparaiso,Location
-2743,Van Phong Bay,Location
-2744,Vancouver,Location
+2688,Tripoli,Location
+2689,Trombetas,Location
+2690,Tromso,Location
+2691,Trondheim,Location
+2692,Troon,Location
+2693,Truro,Location
+2694,Tsukumi,Location
+2695,Tsuruga,Location
+2696,Tuapse,Location
+2697,Tuban,Location
+2698,Tubarao,Location
+2699,Tuktoyaktuk,Location
+2700,Tulagi,Location
+2701,Tulcea,Location
+2702,Tumaco,Location
+2703,Tunis,Location
+2704,Turbo,Location
+2705,Turkmenbashi,Location
+2706,Turku,Location
+2707,Tutunciftlik,Location
+2708,Tuxpan,Location
+2709,Tvoroyri,Location
+2710,Tyne,Location
+2711,Ube,Location
+2712,Uchiura,Location
+2713,Uddevalla,Location
+2714,Uglegorsk,Location
+2715,Ullapool,Location
+2716,Ulsan,Location
+2717,Umatilla,Location
+2718,Umea,Location
+2719,Umm al Qaiwain,Location
+2720,Umm Qasr,Location
+2721,Uno,Location
+2722,Upernavik,Location
+2723,Urangan,Location
+2724,Useless Loop,Location
+2725,Ushuaia,Location
+2726,Ust-Dunaysk,Location
+2727,Ust-Luga,Location
+2728,Ustka,Location
+2729,Utersen,Location
+2730,Uummannaq,Location
+2731,Uusikaupunki,Location
+2732,Vaasa,Location
+2733,Vacamonte,Location
+2734,Vada,Location
+2735,Vadinar Terminal,Location
+2736,Vadso,Location
+2737,Vagur,Location
+2738,Valdez,Location
+2739,Valencia,Location
+2740,Valentia,Location
+2741,Valletta,Location
+2742,Valleyfield,Location
+2743,Valparaiso,Location
+2744,Van Phong Bay,Location
 2745,Vancouver,Location
-2746,Vanersborg,Location
-2747,Vanino,Location
-2748,Vannes,Location
-2749,Varanus Island Terminal,Location
-2750,Varberg,Location
-2751,Vardo,Location
-2752,Varkaus,Location
-2753,Varna,Location
-2754,Vassiliko Bay,Location
-2755,Vasto,Location
-2756,Vat Cach,Location
-2757,Vathi,Location
-2758,Veitsiluoto,Location
-2759,Vejle,Location
-2760,Vene-Balti,Location
-2761,Venice,Location
-2762,Ventspils,Location
-2763,Veracruz,Location
-2764,Veraval,Location
-2765,Vesteras,Location
-2766,Vestervik,Location
-2767,Vestmanna,Location
-2768,Vestmannaeyjar,Location
-2769,Viana do Castelo,Location
-2770,Victoria,Location
+2746,Vancouver,Location
+2747,Vanersborg,Location
+2748,Vanino,Location
+2749,Vannes,Location
+2750,Varanus Island Terminal,Location
+2751,Varberg,Location
+2752,Vardo,Location
+2753,Varkaus,Location
+2754,Varna,Location
+2755,Vassiliko Bay,Location
+2756,Vasto,Location
+2757,Vat Cach,Location
+2758,Vathi,Location
+2759,Veitsiluoto,Location
+2760,Vejle,Location
+2761,Vene-Balti,Location
+2762,Venice,Location
+2763,Ventspils,Location
+2764,Veracruz,Location
+2765,Veraval,Location
+2766,Vesteras,Location
+2767,Vestervik,Location
+2768,Vestmanna,Location
+2769,Vestmannaeyjar,Location
+2770,Viana do Castelo,Location
 2771,Victoria,Location
-2772,Vienna,Location
-2773,Vietsovpetro 01 Terminal,Location
-2774,Vieux Fort,Location
-2775,Vigo,Location
-2776,Vila do Conde,Location
-2777,Villa Constitucion,Location
-2778,Villagarcia,Location
-2779,Villanueva,Location
-2780,Villanueva y Geltru,Location
-2781,Vinh Long,Location
-2782,Visakhapatnam,Location
-2783,Visby,Location
-2784,Vita,Location
-2785,Vitino,Location
-2786,Vitoria,Location
-2787,Vivero,Location
-2788,Vlaardingen,Location
-2789,Vladivostok,Location
-2790,Vlore,Location
-2791,Volos,Location
-2792,Vopnafjordur,Location
-2793,Vordingborg,Location
-2794,Vostochnyy,Location
-2795,Vung Ang,Location
-2796,Vung Tau,Location
-2797,Vyborg,Location
-2798,Vysotsk,Location
-2799,Wadi Feiran Terminal,Location
-2800,Wakamatsu,Location
-2801,Wakayama,Location
-2802,Wakkanai,Location
-2803,Wallaroo,Location
-2804,Wallhamn,Location
-2805,Walvis Bay,Location
-2806,Wanganui,Location
-2807,Wanzhou,Location
-2808,Warrenpoint,Location
-2809,Warri,Location
-2810,Waterford,Location
-2811,Waukegan,Location
-2812,Waverley Terminal,Location
-2813,Weihai,Location
-2814,Weipa,Location
-2815,Wellington,Location
-2816,Wells,Location
-2817,Wenzhou,Location
-2818,West Linapacan Terminal,Location
-2819,Westport,Location
+2772,Victoria,Location
+2773,Vienna,Location
+2774,Vietsovpetro 01 Terminal,Location
+2775,Vieux Fort,Location
+2776,Vigo,Location
+2777,Vila do Conde,Location
+2778,Villa Constitucion,Location
+2779,Villagarcia,Location
+2780,Villanueva,Location
+2781,Villanueva y Geltru,Location
+2782,Vinh Long,Location
+2783,Visakhapatnam,Location
+2784,Visby,Location
+2785,Vita,Location
+2786,Vitino,Location
+2787,Vitoria,Location
+2788,Vivero,Location
+2789,Vlaardingen,Location
+2790,Vladivostok,Location
+2791,Vlore,Location
+2792,Volos,Location
+2793,Vopnafjordur,Location
+2794,Vordingborg,Location
+2795,Vostochnyy,Location
+2796,Vung Ang,Location
+2797,Vung Tau,Location
+2798,Vyborg,Location
+2799,Vysotsk,Location
+2800,Wadi Feiran Terminal,Location
+2801,Wakamatsu,Location
+2802,Wakayama,Location
+2803,Wakkanai,Location
+2804,Wallaroo,Location
+2805,Wallhamn,Location
+2806,Walvis Bay,Location
+2807,Wanganui,Location
+2808,Wanzhou,Location
+2809,Warrenpoint,Location
+2810,Warri,Location
+2811,Waterford,Location
+2812,Waukegan,Location
+2813,Waverley Terminal,Location
+2814,Weihai,Location
+2815,Weipa,Location
+2816,Wellington,Location
+2817,Wells,Location
+2818,Wenzhou,Location
+2819,West Linapacan Terminal,Location
 2820,Westport,Location
-2821,Wewak,Location
-2822,Weymouth,Location
+2821,Westport,Location
+2822,Wewak,Location
 2823,Weymouth,Location
-2824,Whangarei,Location
-2825,Whiffen Head,Location
-2826,Whitby,Location
-2827,Whitstable,Location
-2828,Whittier,Location
-2829,Whyalla,Location
-2830,Wick,Location
-2831,Wicklow,Location
-2832,Wilhelmshaven,Location
-2833,Willemstad,Location
-2834,Wilmington (Delaware),Location
-2835,Wilmington (North Carolina),Location
-2836,Windsor,Location
-2837,Winterport,Location
-2838,Wisbech,Location
-2839,Wismar,Location
-2840,Wladyslawowo,Location
-2841,Wolgast,Location
-2842,Wonsan,Location
-2843,Woodfibre,Location
-2844,Workington,Location
-2845,Wrangell,Location
-2846,Wuhan,Location
-2847,Wuhu,Location
-2848,Wuxue,Location
-2849,Wuzhou,Location
-2850,Wyandotte,Location
-2851,Wyndham,Location
-2852,Xiamen,Location
-2853,Xiangfan,Location
-2854,Xiangtan,Location
-2855,Xiaoshan,Location
-2856,Xiashi,Location
-2857,Xingang,Location
+2824,Weymouth,Location
+2825,Whangarei,Location
+2826,Whiffen Head,Location
+2827,Whitby,Location
+2828,Whitstable,Location
+2829,Whittier,Location
+2830,Whyalla,Location
+2831,Wick,Location
+2832,Wicklow,Location
+2833,Wilhelmshaven,Location
+2834,Willemstad,Location
+2835,Wilmington (Delaware),Location
+2836,Wilmington (North Carolina),Location
+2837,Windsor,Location
+2838,Winterport,Location
+2839,Wisbech,Location
+2840,Wismar,Location
+2841,Wladyslawowo,Location
+2842,Wolgast,Location
+2843,Wonsan,Location
+2844,Woodfibre,Location
+2845,Workington,Location
+2846,Wrangell,Location
+2847,Wuhan,Location
+2848,Wuhu,Location
+2849,Wuxue,Location
+2850,Wuzhou,Location
+2851,Wyandotte,Location
+2852,Wyndham,Location
+2853,Xiamen,Location
+2854,Xiangfan,Location
+2855,Xiangtan,Location
+2856,Xiaoshan,Location
+2857,Xiashi,Location
 2858,Xingang,Location
-2859,Xinhui,Location
-2860,Xiuyu,Location
-2861,Yabucoa,Location
-2862,Yakutat,Location
-2863,Yali,Location
-2864,Yalta,Location
-2865,Yamba,Location
-2866,Yampi Sound,Location
-2867,Yanbu (Commercial Port),Location
-2868,Yanbu (Industrial Port),Location
-2869,Yancheng,Location
-2870,Yandina,Location
-2871,Yangjiang,Location
-2872,Yangon,Location
-2873,Yangpu,Location
-2874,Yangzhou,Location
-2875,Yantai,Location
-2876,Yantian,Location
-2877,Yap,Location
-2878,Yarimca,Location
-2879,Yarmouth,Location
-2880,Yatsushiro,Location
-2881,Yawata,Location
-2882,Yeisk,Location
-2883,Yenikoy,Location
-2884,Yerakini,Location
-2885,Yevpatoriya,Location
-2886,Yibin,Location
-2887,Yichang,Location
-2888,Yingkou,Location
-2889,Yiyang,Location
-2890,Ymuiden,Location
-2891,Yokkaichi,Location
-2892,Yokohama,Location
-2893,Yokosuka,Location
-2894,Yombo Terminal,Location
-2895,Yorktown,Location
-2896,Yosu,Location
+2859,Xingang,Location
+2860,Xinhui,Location
+2861,Xiuyu,Location
+2862,Yabucoa,Location
+2863,Yakutat,Location
+2864,Yali,Location
+2865,Yalta,Location
+2866,Yamba,Location
+2867,Yampi Sound,Location
+2868,Yanbu (Commercial Port),Location
+2869,Yanbu (Industrial Port),Location
+2870,Yancheng,Location
+2871,Yandina,Location
+2872,Yangjiang,Location
+2873,Yangon,Location
+2874,Yangpu,Location
+2875,Yangzhou,Location
+2876,Yantai,Location
+2877,Yantian,Location
+2878,Yap,Location
+2879,Yarimca,Location
+2880,Yarmouth,Location
+2881,Yatsushiro,Location
+2882,Yawata,Location
+2883,Yeisk,Location
+2884,Yenikoy,Location
+2885,Yerakini,Location
+2886,Yevpatoriya,Location
+2887,Yibin,Location
+2888,Yichang,Location
+2889,Yingkou,Location
+2890,Yiyang,Location
+2891,Ymuiden,Location
+2892,Yokkaichi,Location
+2893,Yokohama,Location
+2894,Yokosuka,Location
+2895,Yombo Terminal,Location
+2896,Yorktown,Location
 2897,Yosu,Location
-2898,Youghal,Location
-2899,Ystad,Location
-2900,Yuanjiang,Location
-2901,Yukalpeten,Location
-2902,Yuzhnyy,Location
-2903,Zaafarana Terminal,Location
-2904,Zaandam,Location
-2905,Zadar,Location
-2906,Zafiro Terminal,Location
-2907,Zahrani Terminal,Location
-2908,Zamboanga,Location
-2909,Zante,Location
-2910,Zanzibar,Location
-2911,Zarate,Location
-2912,Zarubino,Location
-2913,Zarzis,Location
-2914,Zawia Terminal,Location
-2915,Zeebrugge,Location
-2916,Zeit Bay Terminal,Location
-2917,Zhangjiabu,Location
-2918,Zhangjiagang,Location
-2919,Zhangzhou,Location
-2920,Zhanjiang,Location
-2921,Zhaoqing,Location
-2922,Zhapu,Location
-2923,Zhenjiang,Location
-2924,Zhongshan,Location
-2925,Zhoushan,Location
+2898,Yosu,Location
+2899,Youghal,Location
+2900,Ystad,Location
+2901,Yuanjiang,Location
+2902,Yukalpeten,Location
+2903,Yuzhnyy,Location
+2904,Zaafarana Terminal,Location
+2905,Zaandam,Location
+2906,Zadar,Location
+2907,Zafiro Terminal,Location
+2908,Zahrani Terminal,Location
+2909,Zamboanga,Location
+2910,Zante,Location
+2911,Zanzibar,Location
+2912,Zarate,Location
+2913,Zarubino,Location
+2914,Zarzis,Location
+2915,Zawia Terminal,Location
+2916,Zeebrugge,Location
+2917,Zeit Bay Terminal,Location
+2918,Zhangjiabu,Location
+2919,Zhangjiagang,Location
+2920,Zhangzhou,Location
+2921,Zhanjiang,Location
+2922,Zhaoqing,Location
+2923,Zhapu,Location
+2924,Zhenjiang,Location
+2925,Zhongshan,Location
 2926,Zhoushan,Location
-2927,Zhuhai,Location
-2928,Zhuzhou,Location
-2929,Zierikzee,Location
-2930,Ziguinchor,Location
-2931,Zirku Island,Location
-2932,Zonguldak,Location
-2933,Zuara,Location
-2934,Zueitina Terminal,Location
-2938,ZZZAbkhazia → Abkhazia,Location
-2939, Afghanistan – Islamic Republic of Afghanistan,Location
-2940, Albania – Republic of Albania,Location
-2941, Algeria – People's Democratic Republic of Algeria,Location
-2942, Andorra – Principality of Andorra,Location
-2943, Angola – Republic of Angola,Location
-2944, Antigua and Barbuda,Location
-2945, Argentina – Argentine Republic[g],Location
-2946, Armenia – Republic of Armenia,Location
-2947,ZZZArtsakh → Artsakh,Location
-2948, Australia – Commonwealth of Australia,Location
-2949, Austria – Republic of Austria,Location
-2950, Azerbaijan – Republic of Azerbaijan,Location
-2951," Bahamas, The – Commonwealth of The Bahamas[8]",Location
-2952, Bahrain – Kingdom of Bahrain,Location
-2953, Bangladesh – People's Republic of Bangladesh,Location
-2954, Barbados,Location
-2955, Belarus – Republic of Belarus,Location
-2956, Belgium – Kingdom of Belgium,Location
-2957, Belize,Location
-2958, Benin – Republic of Benin,Location
-2959, Bhutan – Kingdom of Bhutan,Location
-2960, Bolivia – Plurinational State of Bolivia,Location
-2961, Bosnia and Herzegovina,Location
-2962, Botswana – Republic of Botswana,Location
-2963, Brazil – Federative Republic of Brazil,Location
-2964," Brunei – Nation of Brunei, the Abode of Peace",Location
-2965, Bulgaria – Republic of Bulgaria,Location
-2966, Burkina Faso,Location
-2967,Burma → Myanmar,Location
-2968, Burundi – Republic of Burundi,Location
-2969, Cambodia – Kingdom of Cambodia,Location
-2970, Cameroon – Republic of Cameroon,Location
-2971, Canada[h],Location
-2972, Cape Verde – Republic of Cabo Verde[i],Location
-2973, Central African Republic,Location
-2974, Chad – Republic of Chad,Location
-2975, Chile – Republic of Chile,Location
-2976, China – People's Republic of China[j],Location
-2977,"China, Republic of → Taiwan",Location
-2978, Colombia – Republic of Colombia,Location
-2979, Comoros – Union of the Comoros,Location
-2980," Congo, Democratic Republic of the[n]",Location
-2981," Congo, Republic of the[o]",Location
-2982,ZZZCook Islands → Cook Islands,Location
-2983, Costa Rica – Republic of Costa Rica,Location
-2984,Côte d'Ivoire → Ivory Coast,Location
-2985, Croatia – Republic of Croatia,Location
-2986, Cuba – Republic of Cuba,Location
-2987, Cyprus – Republic of Cyprus,Location
-2988, Czech Republic[p],Location
-2989,"Democratic People's Republic of Korea → Korea, North",Location
-2990,"Democratic Republic of the Congo → Congo, Democratic Republic of the",Location
-2991, Denmark – Kingdom of Denmark,Location
-2992, Djibouti – Republic of Djibouti,Location
-2993, Dominica – Commonwealth of Dominica,Location
-2994, Dominican Republic,Location
-2995, East Timor – Democratic Republic of Timor-Leste[r],Location
-2996, Ecuador – Republic of Ecuador,Location
-2997, Egypt – Arab Republic of Egypt,Location
-2998, El Salvador – Republic of El Salvador,Location
-2999, Equatorial Guinea – Republic of Equatorial Guinea,Location
-3000, Eritrea – State of Eritrea,Location
-3001, Estonia – Republic of Estonia,Location
-3002, Eswatini – Kingdom of Eswatini[s],Location
-3003, Ethiopia – Federal Democratic Republic of Ethiopia,Location
-3004, Fiji – Republic of Fiji,Location
-3005, Finland – Republic of Finland,Location
-3006, France – French Republic,Location
-3007, Gabon – Gabonese Republic,Location
-3008,"Gambia  Gambia, The – Republic of The Gambia[17]",Location
-3009, Georgia,Location
-3010, Germany – Federal Republic of Germany,Location
-3011, Ghana – Republic of Ghana,Location
-3012, Greece – Hellenic Republic,Location
-3013, Grenada,Location
-3014, Guatemala – Republic of Guatemala,Location
-3015, Guinea – Republic of Guinea[u],Location
-3016, Guinea-Bissau – Republic of Guinea-Bissau,Location
-3017, Guyana – Co-operative Republic of Guyana,Location
-3018, Haiti – Republic of Haiti,Location
-3019,Holy See → Vatican City,Location
-3020, Honduras – Republic of Honduras,Location
-3021, Hungary,Location
-3022, Iceland[v],Location
-3023, India – Republic of India,Location
-3024, Indonesia – Republic of Indonesia,Location
-3025, Iran – Islamic Republic of Iran,Location
-3026, Iraq – Republic of Iraq,Location
-3027, Ireland[w],Location
-3028, Israel – State of Israel,Location
-3029, Italy – Italian Republic,Location
-3030, Ivory Coast – Republic of Côte d'Ivoire[x],Location
-3031, Jamaica,Location
-3032, Japan,Location
-3033, Jordan – Hashemite Kingdom of Jordan,Location
-3034, Kazakhstan – Republic of Kazakhstan,Location
-3035, Kenya – Republic of Kenya,Location
-3036, Kiribati – Republic of Kiribati,Location
-3037," Korea, North – Democratic People's Republic of Korea",Location
-3038," Korea, South – Republic of Korea",Location
-3039,ZZZKosovo → Kosovo,Location
-3040, Kuwait – State of Kuwait,Location
-3041, Kyrgyzstan – Kyrgyz Republic,Location
-3042, Laos – Lao People's Democratic Republic,Location
-3043, Latvia – Republic of Latvia,Location
-3044, Lebanon – Lebanese Republic,Location
-3045, Lesotho – Kingdom of Lesotho,Location
-3046, Liberia – Republic of Liberia,Location
-3047, Libya – State of Libya,Location
-3048, Liechtenstein – Principality of Liechtenstein,Location
-3049, Lithuania – Republic of Lithuania,Location
-3050, Luxembourg – Grand Duchy of Luxembourg,Location
-3051,Macedonia → North Macedonia,Location
-3052, Madagascar – Republic of Madagascar,Location
-3053, Malawi – Republic of Malawi,Location
-3054, Malaysia,Location
-3055, Maldives – Republic of Maldives,Location
-3056, Mali – Republic of Mali,Location
-3057, Malta – Republic of Malta,Location
-3058, Marshall Islands – Republic of the Marshall Islands,Location
-3059, Mauritania – Islamic Republic of Mauritania,Location
-3060, Mauritius – Republic of Mauritius,Location
-3061, Mexico – United Mexican States,Location
-3062, Micronesia – Federated States of Micronesia,Location
-3063, Moldova – Republic of Moldova,Location
-3064, Monaco – Principality of Monaco,Location
-3065, Mongolia,Location
-3066, Montenegro,Location
-3067, Morocco – Kingdom of Morocco,Location
-3068, Mozambique – Republic of Mozambique,Location
-3069, Myanmar – Republic of the Union of Myanmar[y],Location
-3070,ZZZNagorno-Karabakh → Artsakh,Location
-3071, Namibia – Republic of Namibia,Location
-3072, Nauru – Republic of Nauru,Location
-3073,   Nepal – Federal Democratic Republic of Nepal,Location
-3074, Netherlands – Kingdom of the Netherlands,Location
-3075, New Zealand,Location
-3076, Nicaragua – Republic of Nicaragua,Location
-3077, Niger – Republic of Niger,Location
-3078, Nigeria – Federal Republic of Nigeria,Location
-3079,ZZZNiue → Niue,Location
-3080,"North Korea → Korea, North",Location
-3081, North Macedonia – Republic of North Macedonia[aa],Location
-3082,ZZZNorthern Cyprus → Northern Cyprus,Location
-3083, Norway – Kingdom of Norway,Location
-3084, Oman – Sultanate of Oman,Location
-3085, Pakistan – Islamic Republic of Pakistan,Location
-3086, Palau – Republic of Palau,Location
-3087, Palestine – State of Palestine,Location
-3088, Panama – Republic of Panama,Location
-3089, Papua New Guinea – Independent State of Papua New Guinea,Location
-3090, Paraguay – Republic of Paraguay,Location
-3091, Peru – Republic of Peru,Location
-3092, Philippines – Republic of the Philippines,Location
-3093, Poland – Republic of Poland,Location
-3094, Portugal – Portuguese Republic,Location
-3095,Pridnestrovie → Transnistria,Location
-3096, Qatar – State of Qatar,Location
-3097,"Republic of Korea → Korea, South",Location
-3098,"Republic of the Congo → Congo, Republic of the",Location
-3099, Romania,Location
-3100, Russia – Russian Federation,Location
-3101, Rwanda – Republic of Rwanda,Location
-3102,ZZZSahrawi Arab Democratic Republic → Sahrawi Arab Democratic Republic,Location
-3103, Saint Kitts and Nevis – Federation of Saint Christopher and Nevis,Location
-3104, Saint Lucia,Location
-3105, Saint Vincent and the Grenadines,Location
-3106, Samoa – Independent State of Samoa,Location
-3107, San Marino – Republic of San Marino,Location
-3108, São Tomé and Príncipe – Democratic Republic of São Tomé and Príncipe,Location
-3109, Saudi Arabia – Kingdom of Saudi Arabia,Location
-3110, Senegal – Republic of Senegal,Location
-3111, Serbia – Republic of Serbia,Location
-3112, Seychelles – Republic of Seychelles,Location
-3113, Sierra Leone – Republic of Sierra Leone,Location
-3114, Singapore – Republic of Singapore,Location
-3115, Slovakia – Slovak Republic,Location
-3116, Slovenia – Republic of Slovenia,Location
-3117, Solomon Islands,Location
-3118, Somalia – Federal Republic of Somalia,Location
-3119,ZZZSomaliland → Somaliland,Location
-3120, South Africa – Republic of South Africa,Location
-3121,"South Korea → Korea, South",Location
-3122,ZZZSouth Ossetia → South Ossetia,Location
-3123, South Sudan – Republic of South Sudan,Location
-3124, Spain – Kingdom of Spain,Location
-3125, Sri Lanka – Democratic Socialist Republic of Sri Lanka[ab],Location
-3126, Sudan – Republic of the Sudan,Location
-3127,"ZZZSudan, South → South Sudan",Location
-3128, Suriname – Republic of Suriname,Location
-3129,Swaziland → Eswatini,Location
-3130, Sweden – Kingdom of Sweden,Location
-3131,  Switzerland – Swiss Confederation,Location
-3132, Syria – Syrian Arab Republic,Location
-3133,ZZZTaiwan ,Location
-3134, Tajikistan – Republic of Tajikistan,Location
-3135, Tanzania – United Republic of Tanzania,Location
-3136, Thailand – Kingdom of Thailand,Location
-3137,"The Bahamas → Bahamas, The",Location
-3138,"The Gambia → Gambia, The",Location
-3139,Timor-Leste → East Timor,Location
-3140, Togo – Togolese Republic,Location
-3141, Tonga – Kingdom of Tonga,Location
-3142,ZZZTransnistria → Transnistria,Location
-3143, Trinidad and Tobago – Republic of Trinidad and Tobago,Location
-3144, Tunisia – Republic of Tunisia,Location
-3145, Turkey – Republic of Turkey,Location
-3146, Turkmenistan – Republic of Turkmenistan,Location
-3147, Tuvalu,Location
-3148, Uganda – Republic of Uganda,Location
-3149, Ukraine,Location
-3150, United Arab Emirates,Location
-3151, United Kingdom – United Kingdom of Great Britain and Northern Ireland,Location
-3152, United States – United States of America,Location
-3153, Uruguay – Oriental Republic of Uruguay,Location
-3154, Uzbekistan – Republic of Uzbekistan,Location
-3155, Vanuatu – Republic of Vanuatu,Location
-3156,  Vatican City – Vatican City State,Location
-3157, Venezuela – Bolivarian Republic of Venezuela,Location
-3158, Vietnam – Socialist Republic of Vietnam,Location
-3159, Yemen – Republic of Yemen,Location
-3160, Zambia – Republic of Zambia,Location
-3161, Zimbabwe – Republic of Zimbabwe,Location
-3165, Abkhazia – Republic of Abkhazia,Location
-3166, Artsakh – Republic of Artsakh[ac],Location
-3167, Cook Islands,Location
-3168, Kosovo – Republic of Kosovo,Location
-3169, Niue,Location
-3170, Northern Cyprus – Turkish Republic of Northern Cyprus,Location
-3171, Sahrawi Arab Democratic Republic,Location
-3172, Somaliland – Republic of Somaliland,Location
-3173, South Ossetia – Republic of South Ossetia–the State of Alania,Location
-3174, Taiwan – Republic of China[j],Location
-3175, Transnistria – Pridnestrovian Moldavian Republic,Location
+2927,Zhoushan,Location
+2928,Zhuhai,Location
+2929,Zhuzhou,Location
+2930,Zierikzee,Location
+2931,Ziguinchor,Location
+2932,Zirku Island,Location
+2933,Zonguldak,Location
+2934,Zuara,Location
+2935,Zueitina Terminal,Location
+2936,Common and formal names,Location
+2937,A AAA,Location
+2938,ZZZ↓ UN member states and observer states ↓,Location
+2939,ZZZAbkhazia → Abkhazia,Location
+2940, Afghanistan – Islamic Republic of Afghanistan,Location
+2941, Albania – Republic of Albania,Location
+2942, Algeria – People's Democratic Republic of Algeria,Location
+2943, Andorra – Principality of Andorra,Location
+2944, Angola – Republic of Angola,Location
+2945, Antigua and Barbuda,Location
+2946, Argentina – Argentine Republic[g],Location
+2947, Armenia – Republic of Armenia,Location
+2948,ZZZArtsakh → Artsakh,Location
+2949, Australia – Commonwealth of Australia,Location
+2950, Austria – Republic of Austria,Location
+2951, Azerbaijan – Republic of Azerbaijan,Location
+2952," Bahamas, The – Commonwealth of The Bahamas[8]",Location
+2953, Bahrain – Kingdom of Bahrain,Location
+2954, Bangladesh – People's Republic of Bangladesh,Location
+2955, Barbados,Location
+2956, Belarus – Republic of Belarus,Location
+2957, Belgium – Kingdom of Belgium,Location
+2958, Belize,Location
+2959, Benin – Republic of Benin,Location
+2960, Bhutan – Kingdom of Bhutan,Location
+2961, Bolivia – Plurinational State of Bolivia,Location
+2962, Bosnia and Herzegovina,Location
+2963, Botswana – Republic of Botswana,Location
+2964, Brazil – Federative Republic of Brazil,Location
+2965," Brunei – Nation of Brunei, the Abode of Peace",Location
+2966, Bulgaria – Republic of Bulgaria,Location
+2967, Burkina Faso,Location
+2968,Burma → Myanmar,Location
+2969, Burundi – Republic of Burundi,Location
+2970, Cambodia – Kingdom of Cambodia,Location
+2971, Cameroon – Republic of Cameroon,Location
+2972, Canada[h],Location
+2973, Cape Verde – Republic of Cabo Verde[i],Location
+2974, Central African Republic,Location
+2975, Chad – Republic of Chad,Location
+2976, Chile – Republic of Chile,Location
+2977, China – People's Republic of China[j],Location
+2978,"China, Republic of → Taiwan",Location
+2979, Colombia – Republic of Colombia,Location
+2980, Comoros – Union of the Comoros,Location
+2981," Congo, Democratic Republic of the[n]",Location
+2982," Congo, Republic of the[o]",Location
+2983,ZZZCook Islands → Cook Islands,Location
+2984, Costa Rica – Republic of Costa Rica,Location
+2985,Côte d'Ivoire → Ivory Coast,Location
+2986, Croatia – Republic of Croatia,Location
+2987, Cuba – Republic of Cuba,Location
+2988, Cyprus – Republic of Cyprus,Location
+2989, Czech Republic[p],Location
+2990,"Democratic People's Republic of Korea → Korea, North",Location
+2991,"Democratic Republic of the Congo → Congo, Democratic Republic of the",Location
+2992, Denmark – Kingdom of Denmark,Location
+2993, Djibouti – Republic of Djibouti,Location
+2994, Dominica – Commonwealth of Dominica,Location
+2995, Dominican Republic,Location
+2996, East Timor – Democratic Republic of Timor-Leste[r],Location
+2997, Ecuador – Republic of Ecuador,Location
+2998, Egypt – Arab Republic of Egypt,Location
+2999, El Salvador – Republic of El Salvador,Location
+3000, Equatorial Guinea – Republic of Equatorial Guinea,Location
+3001, Eritrea – State of Eritrea,Location
+3002, Estonia – Republic of Estonia,Location
+3003, Eswatini – Kingdom of Eswatini[s],Location
+3004, Ethiopia – Federal Democratic Republic of Ethiopia,Location
+3005, Fiji – Republic of Fiji,Location
+3006, Finland – Republic of Finland,Location
+3007, France – French Republic,Location
+3008, Gabon – Gabonese Republic,Location
+3009,"Gambia  Gambia, The – Republic of The Gambia[17]",Location
+3010, Georgia,Location
+3011, Germany – Federal Republic of Germany,Location
+3012, Ghana – Republic of Ghana,Location
+3013, Greece – Hellenic Republic,Location
+3014, Grenada,Location
+3015, Guatemala – Republic of Guatemala,Location
+3016, Guinea – Republic of Guinea[u],Location
+3017, Guinea-Bissau – Republic of Guinea-Bissau,Location
+3018, Guyana – Co-operative Republic of Guyana,Location
+3019, Haiti – Republic of Haiti,Location
+3020,Holy See → Vatican City,Location
+3021, Honduras – Republic of Honduras,Location
+3022, Hungary,Location
+3023, Iceland[v],Location
+3024, India – Republic of India,Location
+3025, Indonesia – Republic of Indonesia,Location
+3026, Iran – Islamic Republic of Iran,Location
+3027, Iraq – Republic of Iraq,Location
+3028, Ireland[w],Location
+3029, Israel – State of Israel,Location
+3030, Italy – Italian Republic,Location
+3031, Ivory Coast – Republic of Côte d'Ivoire[x],Location
+3032, Jamaica,Location
+3033, Japan,Location
+3034, Jordan – Hashemite Kingdom of Jordan,Location
+3035, Kazakhstan – Republic of Kazakhstan,Location
+3036, Kenya – Republic of Kenya,Location
+3037, Kiribati – Republic of Kiribati,Location
+3038," Korea, North – Democratic People's Republic of Korea",Location
+3039," Korea, South – Republic of Korea",Location
+3040,ZZZKosovo → Kosovo,Location
+3041, Kuwait – State of Kuwait,Location
+3042, Kyrgyzstan – Kyrgyz Republic,Location
+3043, Laos – Lao People's Democratic Republic,Location
+3044, Latvia – Republic of Latvia,Location
+3045, Lebanon – Lebanese Republic,Location
+3046, Lesotho – Kingdom of Lesotho,Location
+3047, Liberia – Republic of Liberia,Location
+3048, Libya – State of Libya,Location
+3049, Liechtenstein – Principality of Liechtenstein,Location
+3050, Lithuania – Republic of Lithuania,Location
+3051, Luxembourg – Grand Duchy of Luxembourg,Location
+3052,Macedonia → North Macedonia,Location
+3053, Madagascar – Republic of Madagascar,Location
+3054, Malawi – Republic of Malawi,Location
+3055, Malaysia,Location
+3056, Maldives – Republic of Maldives,Location
+3057, Mali – Republic of Mali,Location
+3058, Malta – Republic of Malta,Location
+3059, Marshall Islands – Republic of the Marshall Islands,Location
+3060, Mauritania – Islamic Republic of Mauritania,Location
+3061, Mauritius – Republic of Mauritius,Location
+3062, Mexico – United Mexican States,Location
+3063, Micronesia – Federated States of Micronesia,Location
+3064, Moldova – Republic of Moldova,Location
+3065, Monaco – Principality of Monaco,Location
+3066, Mongolia,Location
+3067, Montenegro,Location
+3068, Morocco – Kingdom of Morocco,Location
+3069, Mozambique – Republic of Mozambique,Location
+3070, Myanmar – Republic of the Union of Myanmar[y],Location
+3071,ZZZNagorno-Karabakh → Artsakh,Location
+3072, Namibia – Republic of Namibia,Location
+3073, Nauru – Republic of Nauru,Location
+3074,   Nepal – Federal Democratic Republic of Nepal,Location
+3075, Netherlands – Kingdom of the Netherlands,Location
+3076, New Zealand,Location
+3077, Nicaragua – Republic of Nicaragua,Location
+3078, Niger – Republic of Niger,Location
+3079, Nigeria – Federal Republic of Nigeria,Location
+3080,ZZZNiue → Niue,Location
+3081,"North Korea → Korea, North",Location
+3082, North Macedonia – Republic of North Macedonia[aa],Location
+3083,ZZZNorthern Cyprus → Northern Cyprus,Location
+3084, Norway – Kingdom of Norway,Location
+3085, Oman – Sultanate of Oman,Location
+3086, Pakistan – Islamic Republic of Pakistan,Location
+3087, Palau – Republic of Palau,Location
+3088, Palestine – State of Palestine,Location
+3089, Panama – Republic of Panama,Location
+3090, Papua New Guinea – Independent State of Papua New Guinea,Location
+3091, Paraguay – Republic of Paraguay,Location
+3092, Peru – Republic of Peru,Location
+3093, Philippines – Republic of the Philippines,Location
+3094, Poland – Republic of Poland,Location
+3095, Portugal – Portuguese Republic,Location
+3096,Pridnestrovie → Transnistria,Location
+3097, Qatar – State of Qatar,Location
+3098,"Republic of Korea → Korea, South",Location
+3099,"Republic of the Congo → Congo, Republic of the",Location
+3100, Romania,Location
+3101, Russia – Russian Federation,Location
+3102, Rwanda – Republic of Rwanda,Location
+3103,ZZZSahrawi Arab Democratic Republic → Sahrawi Arab Democratic Republic,Location
+3104, Saint Kitts and Nevis – Federation of Saint Christopher and Nevis,Location
+3105, Saint Lucia,Location
+3106, Saint Vincent and the Grenadines,Location
+3107, Samoa – Independent State of Samoa,Location
+3108, San Marino – Republic of San Marino,Location
+3109, São Tomé and Príncipe – Democratic Republic of São Tomé and Príncipe,Location
+3110, Saudi Arabia – Kingdom of Saudi Arabia,Location
+3111, Senegal – Republic of Senegal,Location
+3112, Serbia – Republic of Serbia,Location
+3113, Seychelles – Republic of Seychelles,Location
+3114, Sierra Leone – Republic of Sierra Leone,Location
+3115, Singapore – Republic of Singapore,Location
+3116, Slovakia – Slovak Republic,Location
+3117, Slovenia – Republic of Slovenia,Location
+3118, Solomon Islands,Location
+3119, Somalia – Federal Republic of Somalia,Location
+3120,ZZZSomaliland → Somaliland,Location
+3121, South Africa – Republic of South Africa,Location
+3122,"South Korea → Korea, South",Location
+3123,ZZZSouth Ossetia → South Ossetia,Location
+3124, South Sudan – Republic of South Sudan,Location
+3125, Spain – Kingdom of Spain,Location
+3126, Sri Lanka – Democratic Socialist Republic of Sri Lanka[ab],Location
+3127, Sudan – Republic of the Sudan,Location
+3128,"ZZZSudan, South → South Sudan",Location
+3129, Suriname – Republic of Suriname,Location
+3130,Swaziland → Eswatini,Location
+3131, Sweden – Kingdom of Sweden,Location
+3132,  Switzerland – Swiss Confederation,Location
+3133, Syria – Syrian Arab Republic,Location
+3134,ZZZTaiwan ,Location
+3135, Tajikistan – Republic of Tajikistan,Location
+3136, Tanzania – United Republic of Tanzania,Location
+3137, Thailand – Kingdom of Thailand,Location
+3138,"The Bahamas → Bahamas, The",Location
+3139,"The Gambia → Gambia, The",Location
+3140,Timor-Leste → East Timor,Location
+3141, Togo – Togolese Republic,Location
+3142, Tonga – Kingdom of Tonga,Location
+3143,ZZZTransnistria → Transnistria,Location
+3144, Trinidad and Tobago – Republic of Trinidad and Tobago,Location
+3145, Tunisia – Republic of Tunisia,Location
+3146, Turkey – Republic of Turkey,Location
+3147, Turkmenistan – Republic of Turkmenistan,Location
+3148, Tuvalu,Location
+3149, Uganda – Republic of Uganda,Location
+3150, Ukraine,Location
+3151, United Arab Emirates,Location
+3152, United Kingdom – United Kingdom of Great Britain and Northern Ireland,Location
+3153, United States – United States of America,Location
+3154, Uruguay – Oriental Republic of Uruguay,Location
+3155, Uzbekistan – Republic of Uzbekistan,Location
+3156, Vanuatu – Republic of Vanuatu,Location
+3157,  Vatican City – Vatican City State,Location
+3158, Venezuela – Bolivarian Republic of Venezuela,Location
+3159, Vietnam – Socialist Republic of Vietnam,Location
+3160, Yemen – Republic of Yemen,Location
+3161, Zambia – Republic of Zambia,Location
+3162, Zimbabwe – Republic of Zimbabwe,Location
+3163,ZZZ↑ UN member states and observer states ↑,Location
+3164,ZZZ,Location
+3165,ZZZ↓ Other states ↓,Location
+3166, Abkhazia – Republic of Abkhazia,Location
+3167, Artsakh – Republic of Artsakh[ac],Location
+3168, Cook Islands,Location
+3169, Kosovo – Republic of Kosovo,Location
+3170, Niue,Location
+3171, Northern Cyprus – Turkish Republic of Northern Cyprus,Location
+3172, Sahrawi Arab Democratic Republic,Location
+3173, Somaliland – Republic of Somaliland,Location
+3174, South Ossetia – Republic of South Ossetia–the State of Alania,Location
+3175, Taiwan – Republic of China[j],Location
+3176, Transnistria – Pridnestrovian Moldavian Republic,Location
+3177,ZZZ↑ Other states ↑,Location
+3178,ZZZZ,Location
